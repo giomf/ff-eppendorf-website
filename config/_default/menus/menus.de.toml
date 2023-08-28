@@ -1,11 +1,11 @@
 [[main]]
   name = "News"
-  pageRef = "/news/"
+  pageRef = "news/"
   weight = 1
 
 [[main]]
   name = "Einsätze"
-  pageRef = "/einsaetze/"
+  pageRef = "einsaetze/"
   weight = 10
 
 [[main]]
@@ -15,31 +15,31 @@
 [[main]]
   name = "LF"
   parent = "Fahrzeuge"
-  pageRef = "/fahrzeuge/lf/"
+  pageRef = "fahrzeuge/lf/"
   weight = 21
 
 [[main]]
   name = "GKW"
   parent = "Fahrzeuge"
-  pageRef = "/fahrzeuge/gkw/"
+  pageRef = "fahrzeuge/gkw/"
   weight = 22
 
 [[main]]
   name = "GWR3"
   parent = "Fahrzeuge"
-  pageRef = "/fahrzeuge/gwr3/"
+  pageRef = "fahrzeuge/gwr3/"
   weight = 23
 
 [[main]]
   name = "LiMa"
   parent = "Fahrzeuge"
-  pageRef = "/fahrzeuge/lima/"
+  pageRef = "fahrzeuge/lima/"
   weight = 24
 
 
 [[main]]
   name = "Förderverein"
-  pageRef = "/foerderverein/"
+  pageRef = "foerderverein/"
   weight = 30
 
 
@@ -50,13 +50,13 @@
 [[main]]
   name = "Aufgaben"
   parent = "Über uns"
-  pageRef = "/aufgaben/"
+  pageRef = "aufgaben/"
   weight = 41
 
 [[main]]
   name = "Kontakt"
   parent = "Über uns"
-  pageRef = "/kontakt/"
+  pageRef = "kontakt/"
   weight = 41
 
 #[[main]]
@@ -89,11 +89,11 @@
 [[footer]]
   parent = "Links"
   name = "Impressum"
-  pageRef = "/"
+  pageRef = ""
   weight = 1
 
 [[footer]]
   parent = "Links"
   name = "Kontakt"
-  pageRef = "/"
+  pageRef = ""
   weight = 2
