@@ -5,7 +5,7 @@ enableGitInfo = false
 
 # additional settings
 # googleAnalytics = "G-xxxxxxxxxx"
-baseURL = "https://example.com/"
+baseURL = "https://giom-fm.github.io/ff-eppendorf-website/"
 canonifyURLs = false
 enableEmoji = true
 enableRobotsTXT = true
