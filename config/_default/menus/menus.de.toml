@@ -1,0 +1,99 @@
+[[main]]
+  name = "News"
+  pageRef = "/news/"
+  weight = 1
+
+[[main]]
+  name = "Einsätze"
+  pageRef = "/einsaetze/"
+  weight = 10
+
+[[main]]
+  name = "Fahrzeuge"
+  weight = 20
+
+[[main]]
+  name = "LF"
+  parent = "Fahrzeuge"
+  pageRef = "/fahrzeuge/lf/"
+  weight = 21
+
+[[main]]
+  name = "GKW"
+  parent = "Fahrzeuge"
+  pageRef = "/fahrzeuge/gkw/"
+  weight = 22
+
+[[main]]
+  name = "GWR3"
+  parent = "Fahrzeuge"
+  pageRef = "/fahrzeuge/gwr3/"
+  weight = 23
+
+[[main]]
+  name = "LiMa"
+  parent = "Fahrzeuge"
+  pageRef = "/fahrzeuge/lima/"
+  weight = 24
+
+
+[[main]]
+  name = "Förderverein"
+  pageRef = "/foerderverein/"
+  weight = 30
+
+
+[[main]]
+  name = "Über uns"
+  weight = 40
+
+[[main]]
+  name = "Aufgaben"
+  parent = "Über uns"
+  pageRef = "/aufgaben/"
+  weight = 41
+
+[[main]]
+  name = "Kontakt"
+  parent = "Über uns"
+  pageRef = "/kontakt/"
+  weight = 41
+
+#[[main]]
+#  name = "Tags"
+#  pageRef = "/tags"
+#  weight = 20
+
+[[social]]
+  name = "Facebook"
+  pre = "fab facebook"
+  url = "https://www.facebook.com/feuerwehrhamburgeppendorf"
+  weight = 1
+
+[[social]]
+  name = "Instagram"
+  pre = "fab instagram"
+  url = "https://www.instagram.com/feuerwehrhamburgeppendorf/"
+  weight = 10
+
+[[social]]
+  name = "Twitter"
+  pre = "fab x-twitter"
+  url = "https://twitter.com/FFEppendorf/"
+  weight = 20
+
+[[footer]]
+  name = "Links"
+  weight = 10
+
+[[footer]]
+  parent = "Links"
+  name = "Impressum"
+  pageRef = "/"
+  weight = 1
+
+[[footer]]
+  parent = "Links"
+  name = "Kontakt"
+  pageRef = "/"
+  weight = 2

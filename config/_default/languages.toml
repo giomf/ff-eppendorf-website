@@ -1,0 +1,11 @@
+[de]
+    languageName = "Deutsch"
+    contentDir = "content/de"
+    weight = 1
+    [de.params.head]
+        tagline = "Technischer Zug"
+    [de.params.social]
+        title = "Folgt uns"
+        caption = "Um keine News zu verpassen"
+    [de.params.footer]
+        # license = "Licensed under Creative Commons (<a href='https://creativecommons.org/licenses/by-nc-sa/4.0/' class='link-secondary' target='_blank' rel='noopener noreferrer'>CC BY-NC-SA 4.0</a>)."
