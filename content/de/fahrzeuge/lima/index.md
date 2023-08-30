@@ -33,9 +33,9 @@ Lichtmast- und Generatorenanhänger mit einer Maximalleistung von 28 kVA (1-achs
 
 Der LIMA / GA 28 und der GKW 1 bilden als taktische Einheit zusammen die Sonderkomponente Beleuchtung. Der GKW 1 sowie der GWR 3 können als Zugfahrzeuge eingesetzt werden.
     
-{{< image src="lima1">}}  
-{{< image src="lima2">}}  
-{{< image src="lima3">}}  
-{{< image src="lima4">}}  
-{{< image src="lima5">}}  
-{{< image src="lima6">}}  
+{{< image src="lima1" >}}  
+{{< image src="lima2" >}}  
+{{< image src="lima3" >}}  
+{{< image src="lima4" >}}  
+{{< image src="lima5" >}}  
+{{< image src="lima6" >}}  

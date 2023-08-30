@@ -4,29 +4,29 @@
   "description": "Hinode is a clean blog theme for Hugo, an open-source static site generator",
   "main": "index.js",
   "scripts": {
-    "prestart":             "npm run -s mod:vendor",
-    "start":                "hugo server --bind=0.0.0.0 --disableFastRender --printI18nWarnings",
-    "start:prod":           "npm run -s prestart  && hugo server --bind=0.0.0.0 --disableFastRender --printI18nWarnings -e production",
-    "prebuild":             "npm run clean:public && npm run -s mod:vendor",
-    "build":                "hugo --gc --minify",
-    "build:cache":          "npm run -s prebuild && hugo config | grep cachedir && hugo --gc --minify -e ci",
-    "build:debug":          "hugo -e debug --debug",
-    "build:preview":        "npm run build -D -F",
-    "clean:public":         "rimraf public",
-    "clean:install":        "rimraf package-lock.json node_modules",
-    "lint":                 "npm-run-all lint:**",
-    "lint:scripts":         "eslint assets/js --no-error-on-unmatched-pattern",
-    "lint:styles":          "stylelint \"assets/scss/**/*.{css,sass,scss,sss,less}\" --allow-empty-input",
-    "lint:markdown":        "markdownlint-cli2 \"*.md\" \"content/**/*.md\"",
-    "mod:clean":            "hugo mod clean",
-    "mod:update":           "rimraf _vendor && hugo mod get -u ./... && hugo mod get -u && npm run -s mod:vendor && npm run -s mod:tidy",
-    "mod:tidy":             "hugo mod tidy",
-    "mod:vendor":           "rimraf _vendor && hugo mod vendor",
-    "test":                 "npm run -s lint",
-    "env":                  "hugo env",
-    "precheck":             "npm version",
-    "check":                "hugo version",
-    "upgrade":              "npx npm-check-updates -u && npm run -s mod:update"
+    "prestart": "npm run -s mod:vendor",
+    "start": "hugo server --bind=0.0.0.0 --disableFastRender --printI18nWarnings",
+    "start:prod": "npm run -s prestart  && hugo server --bind=0.0.0.0 --disableFastRender --printI18nWarnings -e production",
+    "prebuild": "npm run clean:public && npm run -s mod:vendor",
+    "build": "hugo --gc --minify",
+    "build:cache": "npm run -s prebuild && hugo config | grep cachedir && hugo --gc --minify -e ci",
+    "build:debug": "hugo -e debug --debug",
+    "build:preview": "npm run build -D -F",
+    "clean:public": "rimraf public",
+    "clean:install": "rimraf package-lock.json node_modules",
+    "lint": "npm-run-all lint:**",
+    "lint:scripts": "eslint assets/js --no-error-on-unmatched-pattern",
+    "lint:styles": "stylelint \"assets/scss/**/*.{css,sass,scss,sss,less}\" --allow-empty-input",
+    "lint:markdown": "markdownlint-cli2 \"*.md\" \"content/**/*.md\"",
+    "mod:clean": "hugo mod clean",
+    "mod:update": "rimraf _vendor && hugo mod get -u ./... && hugo mod get -u && npm run -s mod:vendor && npm run -s mod:tidy",
+    "mod:tidy": "hugo mod tidy",
+    "mod:vendor": "rimraf _vendor && hugo mod vendor",
+    "test": "npm run -s lint",
+    "env": "hugo env",
+    "precheck": "npm version",
+    "check": "hugo version",
+    "upgrade": "npx npm-check-updates -u && npm run -s mod:update"
   },
   "repository": {
     "type": "git",
@@ -58,7 +58,10 @@
   "optionalDependencies": {
     "fsevents": "*"
   },
- "hugo-bin": {
+  "hugo-bin": {
     "buildTags": "extended"
+  },
+  "dependencies": {
+    "sass": "^1.66.1"
   }
 }

@@ -26,6 +26,6 @@ resources:
 
 Das LF 20/10 bildet zusammen mit dem GKW 1, dem GWR-3 und dem LIMA/GA 28 den technischen Zug der Sonderkomponente technische Gefahrenabwehr. 
 
-{{< image src="lf1">}}
-{{< image src="lf2">}}
+{{< image src="lf1" >}}
+{{< image src="lf2" >}}
 

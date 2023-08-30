@@ -28,7 +28,7 @@ resources:
 
 Der GKW 1 bildet zusammen mit dem LF 20/10, dem GWR-3 und dem LIMA/GA 28 den technischen Zug der Sonderkomponente technische Gefahrenabwehr.
 
-{{< image src="gkw1">}}  
-{{< image src="gkw2">}}  
-{{< image src="gkw3">}}  
-{{< image src="gkw4">}}  
+{{< image src="gkw1" >}}  
+{{< image src="gkw2" >}}  
+{{< image src="gkw3" >}}  
+{{< image src="gkw4" >}}  

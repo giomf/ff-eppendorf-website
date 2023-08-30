@@ -28,6 +28,6 @@ Gerätewagen-Rüst 3 mit umfangreicher Sonderbeladung für den schweren technisc
 
 Der GWR-3 bildet zusammen mit dem LF 20/10, dem GKW 1 und dem LIMA/GA 28 den technischen Zug der Sonderkomponente technische Gefahrenabwehr. 
 
-{{< image src="gwr31">}}  
-{{< image src="gwr32">}}  
-{{< image src="gwr33">}}
+{{< image src="gwr31" >}}  
+{{< image src="gwr32" >}}  
+{{< image src="gwr33" >}}

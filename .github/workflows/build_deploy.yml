@@ -31,8 +31,6 @@ jobs:
   # Build job
   build:
     runs-on: ubuntu-latest
-    env:
-      HUGO_VERSION: 0.115.4
     steps:
       - name: Install npm
         uses: actions/setup-node@v3

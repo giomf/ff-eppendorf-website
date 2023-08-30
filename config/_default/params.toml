@@ -86,60 +86,6 @@
     weight = 50
     clipboard = true
 
-# toml-docs-start sections
-[sections]
-
-    [sections.aktuelles]
-        title = "Aktuelles"
-        sort = "date"
-        layout = "card"
-        reverse = true
-        nested = true
-        cols = 3
-        header = "full"
-        footer = "none"
-        orientation = "stacked"
-        padding = "3"
-        color = "body-tertiary"
-        style = "border-0 shadow card-zoom"
-        homepage = 3
-        separator = true
-
-    [sections.einsaetze]
-        title = "Einsätze"
-        sort = "date"
-        layout = "card"
-        reverse = true
-        nested = true
-        cols = 3
-        padding = "3"
-        color = "body-tertiary"
-        style = "border-0 shadow card-zoom"
-        header = "full"
-        footer = "none"
-        orientation = "stacked"
-        homepage = 3
-        separator = true
-
-    [sections.aufgaben]
-        title = "Aufgaben"
-        sort = "date"
-        layout = "list"
-        reverse = true
-        nested = true
-        cols = 3
-        color = ""
-        padding = "0"
-        header = "full"
-        footer = "none"
-        orientation = "stacked"
-        style = "border-0 card-zoom"
-        homepage = 3
-        separator = true
-
-
-# toml-docs-end sections
-
 [favicon]
     logo = "/img/logo.png"
     sizes = [16, 32, 48]
