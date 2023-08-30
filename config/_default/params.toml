@@ -29,7 +29,7 @@
     checkVersion = false
 
 [home]
-    sections = ["news", "einsaetze", "aufgaben"]
+    sections = ["aktuelles", "einsaetze", "aufgaben"]
     fullCover = true
     centerHeadline = true
     style = "gradient-featured"
@@ -89,8 +89,8 @@
 # toml-docs-start sections
 [sections]
 
-    [sections.news]
-        title = "News"
+    [sections.aktuelles]
+        title = "Aktuelles"
         sort = "date"
         layout = "card"
         reverse = true

@@ -1,6 +1,6 @@
 [[main]]
-  name = "News"
-  pageRef = "news/"
+  name = "Aktuelles"
+  pageRef = "aktuelles/"
   weight = 1
 
 [[main]]
