@@ -3,6 +3,7 @@
     "tags": [
       "a",
       "body",
+      "br",
       "button",
       "div",
       "footer",
@@ -252,6 +253,7 @@
       "-theme",
       "-theme-collapsed",
       "btn-webshare",
+      "haftungsausschluss",
       "leaflet-map-0",
       "navbar-0-collapse",
       "toast-container",
@@ -260,7 +262,8 @@
       "url-imggkwjpg",
       "url-imggwr3jpg",
       "url-imglfjpg",
-      "url-imglimajpg"
+      "url-imglimajpg",
+      "verantwortlich-im-sinne-des-teledienstegesetzes-tdg-bzw-des-mediendienststaatsvertrages-mdstv"
     ]
   }
 }

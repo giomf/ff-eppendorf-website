@@ -89,7 +89,7 @@
 [[footer]]
   parent = "Links"
   name = "Impressum"
-  pageRef = ""
+  pageRef = "impressum"
   weight = 1
 
 [[footer]]
