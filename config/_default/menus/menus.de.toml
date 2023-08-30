@@ -9,35 +9,6 @@
   weight = 10
 
 [[main]]
-  name = "Fahrzeuge"
-  weight = 20
-
-[[main]]
-  name = "LF"
-  parent = "Fahrzeuge"
-  pageRef = "fahrzeuge/lf/"
-  weight = 21
-
-[[main]]
-  name = "GKW"
-  parent = "Fahrzeuge"
-  pageRef = "fahrzeuge/gkw/"
-  weight = 22
-
-[[main]]
-  name = "GWR3"
-  parent = "Fahrzeuge"
-  pageRef = "fahrzeuge/gwr3/"
-  weight = 23
-
-[[main]]
-  name = "LiMa"
-  parent = "Fahrzeuge"
-  pageRef = "fahrzeuge/lima/"
-  weight = 24
-
-
-[[main]]
   name = "Förderverein"
   pageRef = "foerderverein/"
   weight = 30
@@ -48,16 +19,28 @@
   weight = 40
 
 [[main]]
+  name = "Feuerwehrhaus"
+  parent = "Über uns"
+  pageRef = "feuerwehrhaus/"
+  weight = 1
+
+[[main]]
+  name = "Fahrzeuge"
+  parent = "Über uns"
+  pageRef = "fahrzeuge/"
+  weight = 2
+
+[[main]]
   name = "Aufgaben"
   parent = "Über uns"
   pageRef = "aufgaben/"
-  weight = 41
+  weight = 3
 
 [[main]]
   name = "Kontakt"
   parent = "Über uns"
   pageRef = "kontakt/"
-  weight = 41
+  weight = 4
 
 #[[main]]
 #  name = "Tags"
