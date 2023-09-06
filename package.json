@@ -60,8 +60,5 @@
   },
   "hugo-bin": {
     "buildTags": "extended"
-  },
-  "dependencies": {
-    "sass": "^1.66.1"
   }
 }
