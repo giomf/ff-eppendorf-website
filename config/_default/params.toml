@@ -1,6 +1,6 @@
 [main]
     separator = "-"
-    description = "Freiwillige Feuerwehr Eppendorf - Technischer Zug"
+    description = "Freiwillige Feuerwehr Hamburg-Eppendorf - Technischer Zug"
     enableDarkMode = true
     modes = ["light", "dark"]
     canonifyAssetsURLs = true
