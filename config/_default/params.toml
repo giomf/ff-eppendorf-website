@@ -3,7 +3,7 @@
     description = "Freiwillige Feuerwehr Eppendorf - Technischer Zug"
     enableDarkMode = true
     modes = ["light", "dark"]
-    canonifyAssetsURLs = false
+    canonifyAssetsURLs = true
     endorse = true
     [main.externalLinks]
         cue = false
