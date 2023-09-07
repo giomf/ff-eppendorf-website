@@ -1,13 +1,17 @@
 ---
 title: Förderverein
+layout: minimal
 ---
 
 ## Dokumente
 {{< card-group cols="2" padding="3" gutter="3" >}}
-    {{< card title="Aufnahmeantrag" icon="fas ticket" >}}
+    {{< card title="Online Aufnahmeformular" icon="fas globe" >}}
+        [Öffnen](https://easyverein.com/public/Eppendorf/applicationform/5724?iframe=True)
+    {{< /card >}}
+    {{< card title="Aufnahmeantrag" icon="fas money-check" >}}
         [Öffnen](./aufnahmeantrag_v1.pdf)
     {{< /card >}}
-    {{< card title="SEPA-Mandat" icon="fas money-check" >}}
+    {{< card title="SEPA-Mandat" icon="fas building-columns" >}}
         [Öffnen](./sepa-mandat.pdf)
     {{< /card >}}
     {{< card title="Satzung" icon="fas scale-balanced" >}}
