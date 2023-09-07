@@ -77,6 +77,12 @@
 
 [[footer]]
   parent = "Links"
+  name = "Datenschutz"
+  pageRef = "datenschutz"
+  weight = 2
+
+[[footer]]
+  parent = "Links"
   name = "Kontakt"
   pageRef = ""
-  weight = 2
+  weight = 3
