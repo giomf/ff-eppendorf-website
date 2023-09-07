@@ -41,7 +41,6 @@
         orientation = "stacked"
         homepage = 3
         separator = true
-
     [de.params.sections.aufgaben]
         title = "Aufgaben"
         sort = "date"
