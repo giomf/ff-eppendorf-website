@@ -6,18 +6,18 @@ date: 2023-08-30
 Diese Seite ist kein offizielles Medium der Feuerwehr Hamburg / This site is an unofficial site.
 ## Verantwortlich im Sinne des Teledienstegesetzes (TDG), bzw. des Mediendienststaatsvertrages (MDStv):
 
-Förderverein der Freiwilligen Feuerwehr Hamburg-Eppendorf e.V.
-c/o Meister
-Semperstraße 8
-D-22303 Hamburg
-Handelsregister: VR 25116
-Registergericht: Amtsgericht Hamburg
-Vertreten durch:
-Jan-Niclas Meister
-Johannes Raddatz
+Förderverein der Freiwilligen Feuerwehr Hamburg-Eppendorf e.V.  
+c/o Meister  
+Semperstraße 8  
+D-22303 Hamburg  
+Handelsregister: VR 25116  
+Registergericht: Amtsgericht Hamburg  
+Vertreten durch:  
+Jan-Niclas Meister  
+Johannes Raddatz  
 
-Telefon: +49 160 955 23 090
-E-Mail: webmaster@ff-eppendorf.de
+Telefon: +49 160 955 23 090  
+E-Mail: webmaster@ff-eppendorf.de  
 
 # Haftungsausschluss
 
@@ -36,4 +36,4 @@ Das Copyright für veröffentlichte, vom Autor selbst erstellte Objekte bleibt a
 
 4. Rechtswirksamkeit dieses Haftungsausschlusses
 Dieser Haftungsausschluss ist als Teil des Internetangebotes zu betrachten, von dem aus auf diese Seite verwiesen wurde. Sofern Teile oder einzelne Formulierungen dieses Textes der geltenden Rechtslage nicht, nicht mehr oder nicht vollständig entsprechen sollten, bleiben die übrigen Teile des Dokumentes in ihrem Inhalt und ihrer Gültigkeit davon unberührt.
-Die Europäische Kommission stellt eine Plattform zur Online-Streitbeilegung (OS) bereit: https://ec.europa.eu/consumers/odr/ Verbraucherstreitbeilegung/Universalschlichtungsstelle Wir sind nicht bereit oder verpflichtet, an Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle teilzunehmen.
+Die Europäische Kommission stellt eine Plattform zur Online-Streitbeilegung (OS) bereit: https://ec.europa.eu/consumers/odr/Verbraucherstreitbeilegung/Universalschlichtungsstelle Wir sind nicht bereit oder verpflichtet, an Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle teilzunehmen.
