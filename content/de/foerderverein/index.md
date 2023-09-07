@@ -1,8 +1,25 @@
 ---
 title: Förderverein
 ---
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.   
 
-Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.   
+## Dokumente
+{{< card-group padding="3" gutter="3" >}}
+    {{< card title="Aufnahmeantrag" icon="fas ticket" >}}
+        [Öffnen](./aufnahmeantrag_v1.pdf)
+    {{< /card >}}
+    {{< card title="SEPA-Mandat" icon="fas money-check" >}}
+        [Öffnen](./sepa-mandat.pdf)
+    {{< /card >}}
+    {{< card title="Satzung" icon="fas scale-balanced" >}}
+        [Öffnen](./satzung_1.4.1.pdf)
+    {{< /card >}}
+    {{< card title="Beitragsordnung" icon="fas list-check" >}}
+        [Öffnen](./beitragsordnung.pdf)
+    {{< /card >}}
+{{< /card-group >}}
 
-Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse
+
+## Bankverbindung
+Förderverein der Freiwilligen Feuerwehr Hamburg-Eppendorf e.V.  
+IBAN: DE13 2005 0550 1502 9557 25  
+BIC: HASPDEHHXXX
