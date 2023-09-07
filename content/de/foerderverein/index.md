@@ -3,7 +3,7 @@ title: Förderverein
 ---
 
 ## Dokumente
-{{< card-group padding="3" gutter="3" >}}
+{{< card-group cols="2" padding="3" gutter="3" >}}
     {{< card title="Aufnahmeantrag" icon="fas ticket" >}}
         [Öffnen](./aufnahmeantrag_v1.pdf)
     {{< /card >}}
