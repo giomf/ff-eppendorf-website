@@ -2,6 +2,7 @@
 title: GWR3
 description: Gerätewagen-Rüst 3 mit umfangreicher Sonderbeladung für den schweren technischen Hilfeleistungseinsatz
 thumbnail: img/fahrzeuge/gwr31.jpg
+layout: minimal
 resources:
 - name: gwr31
   src: img/gwr31.jpg
@@ -10,6 +11,10 @@ resources:
 - name: gwr33
   src: img/gwr33.jpg
 ---
+
+{{< image src="gwr31" >}}  
+
+
 Gerätewagen-Rüst 3 mit umfangreicher Sonderbeladung für den schweren technischen Hilfeleistungseinsatz mit erweiterter Staffelbesatzung.
 
 |                 |                                       |
@@ -28,6 +33,5 @@ Gerätewagen-Rüst 3 mit umfangreicher Sonderbeladung für den schweren technisc
 
 Der GWR-3 bildet zusammen mit dem LF 20/10, dem GKW 1 und dem LIMA/GA 28 den technischen Zug der Sonderkomponente technische Gefahrenabwehr. 
 
-{{< image src="gwr31" >}}  
 {{< image src="gwr32" >}}  
 {{< image src="gwr33" >}}

@@ -1,6 +1,7 @@
 ---
 title: Feuerwehrhaus
 date: 2021-12-01
+layout: minimal
 resources:
 - name: feuerwehrhaus
   src: img/feuerwehrhaus.jpg

@@ -2,12 +2,17 @@
 title: LF-KatS
 description: Löschgruppenfahrzeug (KatS) des Bundes mit Gruppenbesatzung
 thumbnail: img/fahrzeuge/lf1.jpg
+layout: minimal
 resources:
 - name: lf1
   src: img/lf1.jpg
 - name: lf2
   src: img/lf2.jpg
 ---
+
+{{< image src="lf1" >}}
+
+
 |                 |                                                                                               |
 | --------------- | --------------------------------------------------------------------------------------------- |
 | Typ             | MAN TGM 13.250 (Aufbauhersteller: Lentner)                                                    |
@@ -26,6 +31,4 @@ resources:
 
 Das LF 20/10 bildet zusammen mit dem GKW 1, dem GWR-3 und dem LIMA/GA 28 den technischen Zug der Sonderkomponente technische Gefahrenabwehr. 
 
-{{< image src="lf1" >}}
 {{< image src="lf2" >}}
-

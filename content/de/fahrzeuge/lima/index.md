@@ -2,6 +2,7 @@
 title: LiMa
 description: Lichtmast- und Generatorenanhänger mit einer Maximalleistung von 28 kVA
 thumbnail: img/fahrzeuge/lima1.jpg
+layout: minimal
 resources:
 - name: lima1
   src: img/lima1.jpg
@@ -16,6 +17,10 @@ resources:
 - name: lima6
   src: img/lima6.jpg
 ---
+
+{{< image src="lima1" >}}  
+
+
 Lichtmast- und Generatorenanhänger mit einer Maximalleistung von 28 kVA (1-achsig) zum Betrieb von Lichttraverse und / oder Stromabgabe. Zentrale oder abschnittsweise Energieversorgung von Einsatzstellen, Betrieb von Elektrogeräten, Ausleuchtung von Einsatzstellen im Einzel- oder Kombibetrieb.
 
 |              |                                                                                               |
@@ -33,7 +38,6 @@ Lichtmast- und Generatorenanhänger mit einer Maximalleistung von 28 kVA (1-achs
 
 Der LIMA / GA 28 und der GKW 1 bilden als taktische Einheit zusammen die Sonderkomponente Beleuchtung. Der GKW 1 sowie der GWR 3 können als Zugfahrzeuge eingesetzt werden.
     
-{{< image src="lima1" >}}  
 {{< image src="lima2" >}}  
 {{< image src="lima3" >}}  
 {{< image src="lima4" >}}  

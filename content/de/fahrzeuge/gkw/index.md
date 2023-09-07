@@ -2,6 +2,7 @@
 title: GKW
 description: Gerätekraftwagen (vgl. RW 2) für die schwere technische Hilfeleistung mit Gruppenbesatzung.
 thumbnail: img/fahrzeuge/gkw1.jpg
+layout: minimal
 resources:
 - name: gkw1
   src: img/gkw1.jpg
@@ -12,6 +13,8 @@ resources:
 - name: gkw4
   src: img/gkw4.jpg
 ---
+
+{{< image src="gkw1" >}}  
 
 |                 |                                                                       |
 | --------------- | --------------------------------------------------------------------- |
@@ -28,7 +31,6 @@ resources:
 
 Der GKW 1 bildet zusammen mit dem LF 20/10, dem GWR-3 und dem LIMA/GA 28 den technischen Zug der Sonderkomponente technische Gefahrenabwehr.
 
-{{< image src="gkw1" >}}  
 {{< image src="gkw2" >}}  
 {{< image src="gkw3" >}}  
 {{< image src="gkw4" >}}  

@@ -1,6 +1,7 @@
 ---
 title: Impressum
 date: 2023-08-30
+layout: minimal
 ---
 
 Diese Seite ist kein offizielles Medium der Feuerwehr Hamburg / This site is an unofficial site.
