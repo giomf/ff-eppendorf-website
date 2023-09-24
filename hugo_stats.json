@@ -12,6 +12,7 @@
       "form",
       "h1",
       "h2",
+      "h4",
       "head",
       "hr",
       "html",
@@ -281,16 +282,26 @@
       "-theme",
       "-theme-collapsed",
       "bankverbindung",
+      "begriffsdefinitionen",
+      "bereitstellung-des-onlineangebotes-und-webhosting",
       "btn-webshare",
       "dokumente",
+      "einleitung",
       "haftungsausschluss",
       "leaflet-map-0",
       "leaflet-map-1",
+      "löschung-von-daten",
       "navbar-0-collapse",
+      "rechte-der-betroffenen-personen",
+      "sicherheitsmaßnahmen",
       "toast-container",
       "toast-copied-code-message",
       "toast-message-email-4",
-      "verantwortlich-im-sinne-des-teledienstegesetzes-tdg-bzw-des-mediendienststaatsvertrages-mdstv"
+      "verantwortlich-im-sinne-des-teledienstegesetzes-tdg-bzw-des-mediendienststaatsvertrages-mdstv",
+      "verantwortliche-stelle",
+      "weitere-hinweise-zu-verarbeitungsprozessen-verfahren-und-diensten",
+      "änderung-und-aktualisierung-der-datenschutzerklärung",
+      "übersicht-der-verarbeitungen"
     ]
   }
 }
