@@ -3,4 +3,4 @@ title: Kontakt
 layout: minimal
 modules: ["leaflet"]
 ---
-{{< map lat=53.61534784 long=9.99649797 popup="Feuerwehrhaus FF-1951" popup-lat=53.61534784  popup-long=9.99649797 >}}
+{{< map lat=53.61696698814716 long=10.012436415052429 popup="Feuerwehrhaus FF Hamburg-Eppendorf" popup-lat=53.61696698814716  popup-long=10.012436415052429 >}}
