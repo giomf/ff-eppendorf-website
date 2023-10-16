@@ -31,7 +31,8 @@
     checkVersion = false
 
 [home]
-    sections = ["aktuelles", "einsaetze", "aufgaben"]
+    #sections = ["aktuelles", "einsaetze", "aufgaben"]
+    sections = ["einsaetze"]
     fullCover = true
     centerHeadline = true
     style = "gradient-featured"

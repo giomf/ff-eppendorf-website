@@ -1,7 +1,7 @@
-[[main]]
-  name = "Aktuelles"
-  pageRef = "aktuelles/"
-  weight = 1
+#[[main]]
+#  name = "Aktuelles"
+#  pageRef = "aktuelles/"
+#  weight = 1
 
 [[main]]
   name = "Einsätze"
@@ -12,7 +12,6 @@
   name = "Förderverein"
   pageRef = "foerderverein/"
   weight = 30
-
 
 [[main]]
   name = "Über uns"
@@ -30,11 +29,11 @@
   pageRef = "fahrzeuge/"
   weight = 2
 
-[[main]]
-  name = "Aufgaben"
-  parent = "Über uns"
-  pageRef = "aufgaben/"
-  weight = 3
+#[[main]]
+#  name = "Aufgaben"
+#  parent = "Über uns"
+#  pageRef = "aufgaben/"
+#  weight = 3
 
 [[main]]
   name = "Kontakt"
