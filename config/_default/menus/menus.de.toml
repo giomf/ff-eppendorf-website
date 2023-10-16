@@ -36,6 +36,12 @@
 #  weight = 3
 
 [[main]]
+  name = "Mitmachen"
+  parent = "Über uns"
+  pageRef = "mitmachen/"
+  weight = 3
+
+[[main]]
   name = "Kontakt"
   parent = "Über uns"
   pageRef = "kontakt/"
