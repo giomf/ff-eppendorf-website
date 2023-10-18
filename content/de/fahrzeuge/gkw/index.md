@@ -1,6 +1,7 @@
 ---
-title: GKW
-description: Gerätekraftwagen (vgl. RW 2) für die schwere technische Hilfeleistung mit Gruppenbesatzung.
+title: GKW 1
+description: Gerätekraftwagen (vgl. RW 2) für die schwere technische Hilfeleistung mit Gruppenbesatzung
+date: 2023-01-01
 thumbnail: img/fahrzeuge/gkw1.jpg
 layout: minimal
 resources:

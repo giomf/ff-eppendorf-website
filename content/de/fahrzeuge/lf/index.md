@@ -1,6 +1,7 @@
 ---
-title: LF-KatS
+title: LF 20/10
 description: Löschgruppenfahrzeug (KatS) des Bundes mit Gruppenbesatzung
+date: 2023-01-01
 thumbnail: img/fahrzeuge/lf1.jpg
 layout: minimal
 resources:

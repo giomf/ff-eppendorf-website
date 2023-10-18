@@ -27,25 +27,31 @@
   name = "Fahrzeuge"
   parent = "Über uns"
   pageRef = "fahrzeuge/"
-  weight = 2
+  weight = 10
+
+[[main]]
+  name = "Ehemalige Fahrzeuge"
+  parent = "Über uns"
+  pageRef = "ehemalige/"
+  weight = 20
 
 #[[main]]
 #  name = "Aufgaben"
 #  parent = "Über uns"
 #  pageRef = "aufgaben/"
-#  weight = 3
+#  weight = 30
 
 [[main]]
   name = "Mitmachen"
   parent = "Über uns"
   pageRef = "mitmachen/"
-  weight = 3
+  weight = 40
 
 [[main]]
   name = "Kontakt"
   parent = "Über uns"
   pageRef = "kontakt/"
-  weight = 4
+  weight = 50
 
 #[[main]]
 #  name = "Tags"
