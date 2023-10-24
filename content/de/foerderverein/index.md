@@ -3,6 +3,19 @@ title: Förderverein
 layout: minimal
 ---
 
+Im Jahr 2022 wurde der Förderverein der Freiwilligen Feuerwehr Hamburg-Eppendorf e.V. gegründet. Um die ehrenamtlicher Mitglieder:innen der FF Eppendorf bestmöglich zu unterstützen, ist die Fördervereinsarbeit unabdingbar.
+
+**Doch was macht der Förderverein genau?**  
+
+Grundsätzlich erfolgt die Ausstattung der FF Eppendorf über öffentliche Gelder der Stadt Hamburg. Doch häufig sind die Steuermittel begrenzt und viele hilfreiche Dinge können nicht beschafft werden. Hier greift der Förderverein der Wehr unter die Arme, sei es bei der Beschaffung von zusätzlicher Wechselbekleidung nach einem anstrengenden Einsatz oder bei der Anschaffung von Übungsmaterialien für eine gute Aus- und Fortbildung der Kamerad:innen. Darüber hinaus fördert der Verein den Zusammenhalt innerhalb der Wehr und leistet wertvolle Stadtteilarbeit in unserem Heimatstadtteil Eppendorf. 
+
+**Wie kann der Förderverein unterstützt werden?**
+
+Jede und jeder kann passives Mitglied unseres Fördervereins werden. Mit einem geringen jährlichen Betrag wird unser Verein planbar und nachhaltig unterstützt. Die Aufnahme erfolgt ganz einfach über ein Online Formular hier auf der Seite. 
+Wer jedoch lieber einen Einmalbetrag bevorzugt, kann uns über untenstehende Bankverbindung eine Spende zukommen lassen, über welche wir uns genauso freuen! Auf Anfrage können wir eine Spendenbescheinigung ausstellen. 
+
+Bei weiteren Fragen oder Anregen ist der Vorstand des Fördervereins unter folgender Mailadresse erreichbar: foerderverein@ff-eppendorf.de
+
 ## Dokumente
 {{< card-group cols="2" padding="3" gutter="3" >}}
     {{< card title="Online Aufnahmeformular" icon="fas globe" >}}
