@@ -22,5 +22,5 @@ Bei dem Objekt handelt es sich um eine ehemalige Werkstatthalle, die für feuerw
 
 {{< image src="mitglieder">}}
 
-Wir sind 46 aktive Kameraden im Einsatzdienst.
+Wir sind über 50 aktive Kameraden im Einsatzdienst.
 
