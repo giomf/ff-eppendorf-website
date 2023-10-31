@@ -39,7 +39,7 @@
 
 [navigation]
     anchor = true
-    logo = "img/logo.png"
+    logo = "/img/logo.png"
     color = "body"
     fixed = true
     offset = "3.8em"
