@@ -95,5 +95,5 @@
 [[footer]]
   parent = "Links"
   name = "Kontakt"
-  pageRef = ""
+  pageRef = "kontakt"
   weight = 3
