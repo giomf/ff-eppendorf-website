@@ -4,7 +4,9 @@ date: 2023-08-30
 layout: minimal
 ---
 
+# Impressum für die Website FF-Eppendorf.de
 Diese Seite ist kein offizielles Medium der Feuerwehr Hamburg / This site is an unofficial site.
+
 ## Verantwortlich im Sinne des Teledienstegesetzes (TDG), bzw. des Mediendienststaatsvertrages (MDStv):
 
 Förderverein der Freiwilligen Feuerwehr Hamburg-Eppendorf e.V.
@@ -22,7 +24,7 @@ Johannes Raddatz
 Telefon: +49 160 955 23 090  
 E-Mail: webmaster@ff-eppendorf.de  
 
-# Haftungsausschluss
+## Haftungsausschluss
 
 1. Inhalt des Onlineangebotes
 Der Autor übernimmt keinerlei Gewähr für die Aktualität, Korrektheit, Vollständigkeit oder Qualität der bereitgestellten Informationen. Haftungsansprüche gegen den Autor, welche sich auf Schäden materieller oder ideeller Art beziehen, die durch die Nutzung oder Nichtnutzung der dargebotenen Informationen bzw. durch die Nutzung fehlerhafter und unvollständiger Informationen verursacht wurden, sind grundsätzlich ausgeschlossen, sofern seitens des Autors kein nachweislich vorsätzliches oder grob fahrlässiges Verschulden vorliegt.
