@@ -6,7 +6,7 @@ resources:
 - name: feuerwehrhaus
   src: img/feuerwehrhaus.jpg
 - name: mitglieder
-  src: img/mitglieder.jpg
+  src: img/mitglieder_crop.jpg
 modules: ["leaflet"]
 ---
 
