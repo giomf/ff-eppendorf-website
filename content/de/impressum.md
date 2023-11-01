@@ -21,7 +21,7 @@ Vertreten durch:
 Jan-Niclas Meister  
 Johannes Raddatz  
 
-Telefon: +49 160 955 23 090  
+Telefon: +49 40 42851 - 1951  
 E-Mail: webmaster@ff-eppendorf.de  
 
 ## Haftungsausschluss
