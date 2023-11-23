@@ -3,7 +3,7 @@ title: LF 16-TS Bund (1996-2007)
 description: Löschgruppenfahrzeug nach STAN des Bundes für den Brandbekämpfungseinsatz mit Gruppenbesatzung
 date: 2023-01-01
 thumbnail: img/fahrzeuge/lf_16_ts_1.jpg
-layout: minimal
+type: minimal
 resources:
 - name: lf_16_ts_1
   src: img/lf_16_ts_1.jpg

@@ -4,7 +4,7 @@
     enableDarkMode = true
     modes = ["light", "dark"]
     canonifyAssetsURLs = true
-    endorse = true
+    endorse = false
     [main.externalLinks]
         cue = false
         tab = false
@@ -36,6 +36,11 @@
     fullCover = true
     centerHeadline = true
     style = "gradient-featured"
+    [home.feature]
+        orientation = "horizontal"
+        color = "primary"
+        width = 6
+        align = "start"
 
 [navigation]
     anchor = true

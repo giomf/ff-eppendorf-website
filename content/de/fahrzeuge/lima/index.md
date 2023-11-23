@@ -3,7 +3,7 @@ title: LiMa / GA 28
 description: Lichtmast- und Generatorenanhänger mit einer Maximalleistung von 28 kVA
 date: 2023-01-01
 thumbnail: img/fahrzeuge/lima1.jpg
-layout: minimal
+type: minimal
 resources:
 - name: lima1
   src: img/lima1.jpg

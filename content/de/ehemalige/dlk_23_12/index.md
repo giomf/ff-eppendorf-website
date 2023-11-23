@@ -3,7 +3,7 @@ title: DLK 23-12 (2000-2010)
 description: Die DLK 23-12 ist unser Pflegefahrzeug in Patenschaft für die Hamburger Feuerwehrhistoriker
 date: 2023-01-01
 thumbnail: img/fahrzeuge/dlk_23_12.jpg
-layout: minimal
+type: minimal
 resources:
 - name: dlk_23_12
   src: img/dlk_23_12.jpg

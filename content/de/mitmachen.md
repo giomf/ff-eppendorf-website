@@ -1,6 +1,6 @@
 ---
 title: Werde Mitglied
-layout: minimal
+type: minimal
 ---
 Du bist zwischen 17 und 46 Jahren alt und gesundheitlich fit?
 Du suchst neben deinem Beruf nach einer spannenden Herausforderung?

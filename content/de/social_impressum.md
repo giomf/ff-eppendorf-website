@@ -1,7 +1,7 @@
 ---
 title: Social Impressum
 date: 2023-08-30
-layout: minimal
+type: minimal
 ---
 # Impressum für die Social-Media-Kanäle facebook, Instagram und Twitter
 
