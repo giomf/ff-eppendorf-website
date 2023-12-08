@@ -3,7 +3,7 @@ title: GWR 3
 description: Gerätewagen-Rüst 3 mit umfangreicher Sonderbeladung für den schweren technischen Hilfeleistungseinsatz
 date: 2023-01-01
 thumbnail: img/fahrzeuge/gwr31.jpg
-layout: minimal
+type: minimal
 resources:
 - name: gwr31
   src: img/gwr31.jpg

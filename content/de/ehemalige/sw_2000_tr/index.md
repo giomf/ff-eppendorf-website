@@ -3,7 +3,7 @@ title: SW 2000-TR (1998-2010)
 description: Schlauchwagen für Wasserver- / entsorgung über lange Wegstrecken mit Truppbesatzung
 date: 2023-01-01
 thumbnail: img/fahrzeuge/sw_2000_1.jpg
-layout: minimal
+type: minimal
 resources:
 - name: sw_2000_1
   src: img/sw_2000_1.jpg

@@ -1,6 +1,6 @@
 ---
 title: Kontakt
-layout: minimal
+type: minimal
 ---
 
 **Adresse**  

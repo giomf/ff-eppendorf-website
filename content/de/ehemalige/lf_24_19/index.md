@@ -3,7 +3,7 @@ title: LF 24/19-TH (2001-2011)
 description: Löschgruppenfahrzeug mit kombinierter Sonderbeladung für den Brandbekämpfungs- und technischen Hilfeleistungseinsatz mit Gruppenbesatzung
 date: 2023-01-01
 thumbnail: img/fahrzeuge/lf_24_19_1.jpg
-layout: minimal
+type: minimal
 resources:
 - name: lf_24_19_1
   src: img/lf_24_19_1.jpg

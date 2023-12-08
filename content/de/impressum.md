@@ -1,7 +1,7 @@
 ---
 title: Impressum
 date: 2023-08-30
-layout: minimal
+type: minimal
 ---
 
 # Impressum für die Website FF-Eppendorf.de

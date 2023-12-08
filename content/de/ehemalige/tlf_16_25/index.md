@@ -3,7 +3,7 @@ title: TLF 16/25 (1996-2001)
 description: Tanklöschfahrzeug für den Brandbekämpfungs- und leichten technischen Hilfeleistungseinsatz mit Staffelbesatzung
 date: 2023-01-01
 thumbnail: img/fahrzeuge/tlf_16_25_1.jpg
-layout: minimal
+type: minimal
 resources:
 - name: tlf_16_25_1
   src: img/tlf_16_25_1.jpg

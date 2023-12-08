@@ -1,6 +1,6 @@
 ---
 title: Förderverein
-layout: minimal
+type: minimal
 ---
 
 Im Jahr 2022 wurde der Förderverein der Freiwilligen Feuerwehr Hamburg-Eppendorf e.V. gegründet. Um die ehrenamtlicher Mitglieder:innen der FF Eppendorf bestmöglich zu unterstützen, ist die Fördervereinsarbeit unabdingbar.
