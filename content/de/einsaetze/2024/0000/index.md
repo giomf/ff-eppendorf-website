@@ -29,7 +29,7 @@ Intensive Nachlösch- und Aufräumarbeiten dauerten über längere Zeit.
 Bereits an der Einsatzstelle begannen erste Hygienemaßnahmen für unsere Einsatzkräfte an Gerät und PSA.
 Die Einheit war gegen kurz vor 07:00 Uhr morgens wieder uneingeschränkt einsatzbereit.
 
-Hier der offizielle [Presseberich](https://www.presseportal.de/blaulicht/pm/82522/5683015) der FW Hamburg.
+Hier der offizielle [Pressebericht](https://www.presseportal.de/blaulicht/pm/82522/5683015) der FW Hamburg.
 
 {{< image src="img1" >}}  
 {{< image src="img2" >}}  
