@@ -5,13 +5,13 @@ description: Cobra-Einsatz & Dachhautöffnung bei Aulabrand
 thumbnail: img/einsaetze/2024/0000.jpg
 resources:
 - name: img1
-  src: img/0000-1.jpg
+  src: img/2024-0000-1.jpg
 - name: img2
-  src: img/0000-2.jpg
+  src: img/2024-0000-2.jpg
 - name: img3
-  src: img/0000-3.jpg
+  src: img/2024-0000-3.jpg
 - name: img4
-  src: img/0000-4.jpg
+  src: img/2024-0000-4.jpg
 ---
 Cobra-Einsatz & Dachhautöffnung bei Aulabrand
 Das neue Jahr war noch jung, da wurden wir am 01.01.2024 gegen 02:40 Uhr mit dem gesamten Technischen Zug in den Stadtteil Alsterdorf mit dem Stichwort: „Feuer 2. Alarm brennt Dach einer Aula eines Gymnasiums“ nachalarmiert.
