@@ -12,14 +12,15 @@
         let
          pkgs = import nixpkgs { inherit system; };
         in {
-          devShells.default = pkgs.mkShell {
-            buildInputs = with pkgs;[
+          devShells.default = (pkgs.buildFHSUserEnv {
+            name = "Devshell";
+            runScript = "fish";
+            targetPkgs = pkgs: (with pkgs;[
               nodejs_20
               go
               dart-sass
-              hugo
-            ];
-          };
+            ]);
+          }).env;
         }
       );
 }
