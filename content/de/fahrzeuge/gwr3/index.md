@@ -27,7 +27,7 @@ Gerätewagen-Rüst 3 mit umfangreicher Sonderbeladung für den schweren technisc
 | Höhe            | 3450 mm                               |
 | Leistung        | 240 kW                                |
 | Leergewicht     | 10525 kg                              |
-| Zul. Gesamtgew. | 14000 kg                              |
+| Zul. Gesamtgew. | 18000 kg                              |
 | Zulassung       | 2011                                  |
 | Besonderheit    | Watfähigkeit bis zu 80 cm Wassertiefe |                                     |
 {.table}
