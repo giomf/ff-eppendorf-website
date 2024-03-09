@@ -36,7 +36,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Install npm
-        uses: actions/setup-node@v3
+        uses: actions/setup-node@v4
 
       - name: Install dart-sass
         working-directory: /opt
@@ -47,7 +47,7 @@ jobs:
           echo "/opt/dart-sass/" >> $GITHUB_PATH
 
       - name: Checkout
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
         with:
           submodules: recursive
           fetch-depth: 0
