@@ -25,11 +25,6 @@
     showJS = false
     showSCSS = false
 
-[docs]
-    github = "https://github.com/gethinode/hinode"
-    release = "https://github.com/gethinode/hinode/releases/tag/"
-    checkVersion = false
-
 [home]
     #sections = ["aktuelles", "einsaetze", "aufgaben"]
     sections = ["einsaetze"]
@@ -115,28 +110,6 @@
     themeFontPath = "/fonts" # local path
     purge = false
 
-[schema]
-    type = "Organization"
-    name = "Hinode"
-    locale = "en-US"
-    # twitter = "https://twitter.com/gethinode"
-    # linkedIn = ""
-    github = "https://github.com/gethinode/hinode"
-    section = "blog"
-    [author]
-        name = "Mark Dumay"
-        # twitter = "https://twitter.com/markdumay"
-        linkedin = "https://www.linkedin.com/in/markdumay/"
-        github = "https://github.com/markdumay"
-    [logo]
-        url = "img/logo512x512.png"
-        width = 512
-        height = 512
-    [image]
-        url = "img/logo1280x640.png"
-        width = 1280
-        height = 640
-
 [opengraph]
     images = ["logo.png"]
     locale = "en_US"
@@ -149,6 +122,3 @@
     # By default, light and dark mode correspond to github-light and github-dark, respectively.
     # Optional values: github-light, github-dark, preferred-color-scheme, github-dark-orange, icy-dark, dark-blue, photon-dark.
     #theme = "" 
-
-[links]
-    hinode = "https://gethinode.com"

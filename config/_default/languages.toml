@@ -9,22 +9,6 @@
         caption = "Um keine News zu verpassen"
     [de.params.footer]
         # license = "Licensed under Creative Commons (<a href='https://creativecommons.org/licenses/by-nc-sa/4.0/' class='link-secondary' target='_blank' rel='noopener noreferrer'>CC BY-NC-SA 4.0</a>)."
-    #[de.params.sections.aktuelles]
-    #    title = "Aktuelles"
-    #    reference = "Weiteres Aktuelles"
-    #    sort = "date"
-    #    layout = "card"
-    #    reverse = true
-    #    nested = true
-    #    cols = 3
-    #    header = "full"
-    #    footer = "none"
-    #    orientation = "stacked"
-    #    padding = "3"
-    #    color = "body-tertiary"
-    #    style = "border-0 shadow card-zoom"
-    #    homepage = 3
-    #    separator = true
     [de.params.sections.einsaetze]
         title = "Einsätze"
         reference = "Weitere Einsätze"
@@ -41,19 +25,4 @@
         orientation = "stacked"
         homepage = 9
         separator = true
-    #[de.params.sections.aufgaben]
-    #    title = "Aufgaben"
-    #    sort = "date"
-    #    layout = "list"
-    #    reverse = true
-    #    nested = true
-    #    cols = 3
-    #    color = ""
-    #    padding = "0"
-    #    header = "full"
-    #    footer = "none"
-    #    orientation = "stacked"
-    #    style = "border-0 card-zoom"
-    #    homepage = 3
-    #    separator = true
 
