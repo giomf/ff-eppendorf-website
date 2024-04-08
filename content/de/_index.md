@@ -1,5 +1,5 @@
 ---
 title: Freiwillige Feuerwehr Hamburg-Eppendorf
-thumbnail: /img/logo_16x9.png
+thumbnail: /img/logo.png
 description: Technischer Zug - F 1951
 ---
