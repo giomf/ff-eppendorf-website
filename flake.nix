@@ -10,7 +10,8 @@
     flake-utils.lib.eachDefaultSystem
       (system:
         let
-         pkgs = import nixpkgs { inherit system; };
+          pkgs = import nixpkgs { inherit system; };
+          pp = pkgs.python311Packages;
         in {
           devShells.default = (pkgs.buildFHSUserEnv {
             name = "Devshell";
@@ -19,6 +20,10 @@
               nodejs_20
               go
               dart-sass
+              python312
+              pp.python-lsp-server
+              pp.virtualenv
+              pp.yapf
             ]);
           }).env;
         }
