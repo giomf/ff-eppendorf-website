@@ -25,7 +25,7 @@ Wir waren über mehrere Stunden mit insgesamt 14 Einsatzkräften, darunter 8 AGT
 Intensive Nachlöscharbeiten dauerten über längere Zeit.
 Bereits an der Einsatzstelle begannen erste Hygienemaßnahmen für unsere Einsatzkräfte an Gerät und PSA. 
 
-Der offizielle (Pressebericht)[https://www.presseportal.de/blaulicht/pm/82522/5864487] der FW Hamburg.
+Der offizielle [Pressebericht](https://www.presseportal.de/blaulicht/pm/82522/5864487) der FW Hamburg.
 
 {{< image src="img01" >}}  
 {{< image src="img02" >}}  
