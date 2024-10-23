@@ -11,4 +11,4 @@ Führerscheininhaber der Klasse C/CE und Personen mit oder in der Ausbildung zum
 **Wir bieten:**  
 Eine komplette feuerwehrtechnische Grundausbildung. Umfangreiche Aus- und Weiterbildungslehrgänge im feuertechnischen Bereich. Spannende Herausforderungen bei komplexen Einsatzlagen. Ein klasse Team mit hochmoderner Technik wartet auf Dich!
 
-Du hast Interesse? Dann nimm gerne [Kontakt]({{< ref "kontakt" >}}) mit uns auf!
+Du hast Interesse? Dann nimm gerne [Kontakt]({{% ref "#kontakt" %}}) mit uns auf!
