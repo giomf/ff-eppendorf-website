@@ -12,13 +12,10 @@ modules: ["leaflet"]
 
 Unser Feuerwehrhaus bietet uns grundsätzlich ausreichend Platz für die Erfüllung unserer Aufgaben. Unter Berücksichtigung der einsatzstrategischen Planung (siehe Einsatzauftrag und Aufgaben), bietet das Objekt den bestmöglich geeigneten Standort für einen angemessenen Einsatzdienst.
 
-{{< image src="feuerwehrhaus" caption="Feuerwehrhaus" >}}
+{{< image src="feuerwehrhaus" caption="Neues Feuerwehrhaus welches im September 2024 bezogen wurde" >}}
 
+{{< map lat=53.6188642 long=9.9997724 popup="Feuerwehrhaus FF Hamburg-Eppendorf" popup-lat=53.6188642 popup-long=9.9997724 >}}
 Eine gut ausgebaute Verkehrsführung über die Ausfallstraßen nach West und Ost, als auch die Flughafenumgehung und die Nord – Südachsen gewährleisten ein schnelles und zeitgerechtes Durchkommen zur Einsatzstelle. Zudem befindet sich die Autobahn BAB A 7 / E 45 in unmittelbarer Nähe. Wir liegen somit strategisch günstig im Herzen unseres Einsatzgebietes.
-
-{{< map lat=53.61696698814716 long=10.012436415052429 popup="Feuerwehrhaus FF Hamburg-Eppendorf" popup-lat=53.61696698814716  popup-long=10.012436415052429 >}}
-
-Bei dem Objekt handelt es sich um eine ehemalige Werkstatthalle, die für feuerwehrtechnische Bedürfnisse ideal ist. Obwohl das Gebäude um 1920 erbaut worden ist, haben die Wehrmitglieder durch umfangreiche Eigenleistungen in praktischer Form von mehreren tausend Arbeitsstunden, selbst Hand angelegt und die Wache über die Jahre verschönert. Somit wurde eine optimale Grundlage geschaffen.
 
 {{< image src="mitglieder">}}
 
