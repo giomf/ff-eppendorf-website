@@ -22,6 +22,8 @@ thumbnail: {thumbnail}
 tag: {tag}
 resources:{resources}
 ---
+{markdown_content}
+
 {shortcodes}\
 '''
 
@@ -132,11 +134,40 @@ def get_images_snippet(year: str, content_id: str) -> (str, str):
     return (resources, shortcodes)
 
 
-def create_index_file(year: str, content_id: str, date: datetime, thumbnail: str, tag: str, resources: str,
-                      shortcodes: str):
+def find_markdown_content(input_path: Path) -> str:
+    """Find and read the content of a markdown file in the given directory."""
+    for file_path in input_path.iterdir():
+        if file_path.is_file() and file_path.suffix == '.md':
+            print(f'Use markdown file: {file_path.name}')
+            with open(file_path, 'r') as md_file:
+                content = md_file.read()
+                return content
+
+    print('No markdown file found.')
+    return ''
+
+
+def create_index_file(year: str,
+                      content_id: str,
+                      date: datetime,
+                      thumbnail: str,
+                      tag: str,
+                      resources: str,
+                      shortcodes: str,
+                      markdown_content: str = ''):
     content_path = _TARGET_BASE_PATH.joinpath(year).joinpath(content_id)
     index_file = content_path.joinpath('index.md')
-    index = _INDEX_TEMPLATE.format(date=date, tag=tag, thumbnail=thumbnail, resources=resources, shortcodes=shortcodes)
+
+    # Add a newline after markdown content if it exists
+    if markdown_content and not markdown_content.endswith('\n'):
+        markdown_content += '\n'
+
+    index = _INDEX_TEMPLATE.format(date=date,
+                                   tag=tag,
+                                   thumbnail=thumbnail,
+                                   resources=resources,
+                                   shortcodes=shortcodes,
+                                   markdown_content=markdown_content)
 
     with open(index_file, 'w') as file:
         file.write(index)
@@ -158,8 +189,13 @@ if __name__ == "__main__":
             date = parse_date_from_path(input_path)
             copy_images(args.year, args.id, input_path)
             (resources, shortcodes) = get_images_snippet(args.year, args.id)
+
+            # Find and read markdown content
+            markdown_content = find_markdown_content(input_path)
+
             thumbnail_path = _THUMBNAIL_BASE_PATH.joinpath(args.year).joinpath(f'{args.id}.jpg')
-            create_index_file(args.year, args.id, date, str(thumbnail_path), tag, resources, shortcodes)
+            create_index_file(args.year, args.id, date, str(thumbnail_path), tag, resources, shortcodes,
+                              markdown_content)
 
     elif args.command == 'print':
         print_content(args.year, args.id)
