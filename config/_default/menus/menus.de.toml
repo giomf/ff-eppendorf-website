@@ -4,46 +4,52 @@
   weight = 1
 
 [[main]]
+  name = "2025"
+  parent = "Einsätze"
+  pageRef = "einsaetze/2025/"
+  weight = 2
+
+[[main]]
   name = "2024"
   parent = "Einsätze"
   pageRef = "einsaetze/2024/"
-  weight = 2
+  weight = 3
 
 [[main]]
   name = "2023"
   parent = "Einsätze"
   pageRef = "einsaetze/2023/"
-  weight = 3
+  weight = 4
 
 [[main]]
   name = "2022"
   parent = "Einsätze"
   pageRef = "einsaetze/2022/"
-  weight = 4
+  weight = 5
 
 [[main]]
   name = "2021"
   parent = "Einsätze"
   pageRef = "einsaetze/2021/"
-  weight = 5
+  weight = 6
 
 [[main]]
   name = "2020"
   parent = "Einsätze"
   pageRef = "einsaetze/2020/"
-  weight = 6
+  weight = 7
 
 [[main]]
   name = "2019"
   parent = "Einsätze"
   pageRef = "einsaetze/2019/"
-  weight = 7
+  weight = 8
 
 [[main]]
   name = "2018"
   parent = "Einsätze"
   pageRef = "einsaetze/2018/"
-  weight = 8
+  weight = 9
 
 [[main]]
   name = "Förderverein"
