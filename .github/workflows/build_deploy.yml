@@ -55,6 +55,14 @@ jobs:
       - name: Install Node.js dependencies
         run: "npm install  --legacy-peer-deps"
 
+      - name: Fetch resources directory from cache
+        uses: actions/cache@v3
+        with:
+          path: resources
+          key: ${{ runner.os }}-hugo-resources-directory-${{ github.run_id }}
+          restore-keys: |
+            ${{ runner.os }}-hugo-resources-directory
+
       - name: Build site
         run: >
           ls -la /opt/dart-sass &&
