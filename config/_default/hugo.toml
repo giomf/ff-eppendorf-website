@@ -15,7 +15,7 @@ summaryLength = 20
 # See https://github.com/gohugoio/hugo/issues/7228#issuecomment-714490456
 ignoreErrors = ["error-remote-getjson"]
 
-timeout = "600s"
+timeout = "1200s"
 
 languageCode = "de-DE"
 defaultContentLanguage = "de"
