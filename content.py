@@ -31,6 +31,49 @@ _INDEX_TEMPLATE_RESOURCES_SNIPPET = '\n- name: img01\n  src: img/{img_src}'
 _INDEX_TEMPLATE_SHORTCODE_SNIPPET = '\n{{< image src="img01" >}}'
 
 
+def get_latest_year() -> str:
+    """
+    Get the latest year from the content directory.
+    
+    Returns:
+        str: The latest year found in the content directory, or the current year if none found
+    """
+    years = []
+    for path in _TARGET_BASE_PATH.iterdir():
+        if path.is_dir() and path.name.isdigit():
+            years.append(path.name)
+
+    if not years:
+        return str(datetime.now().year)
+
+    return max(years)
+
+
+def get_next_id(year: str) -> str:
+    """
+    Get the next available ID for a given year.
+    
+    Args:
+        year (str): The year to check for existing IDs
+        
+    Returns:
+        str: The next available ID formatted as a 4-digit string
+    """
+    year_path = _TARGET_BASE_PATH.joinpath(year)
+    if not year_path.exists():
+        return "0000"
+
+    ids = []
+    for path in year_path.iterdir():
+        if path.is_dir() and path.name.isdigit():
+            ids.append(int(path.name))
+
+    if not ids:
+        return "0000"
+
+    return f"{max(ids) + 1:04d}"
+
+
 def parse_arguments():
     """
     Parse command line arguments for the script.
@@ -46,13 +89,17 @@ def parse_arguments():
     parser = argparse.ArgumentParser(description="Parse arguments for template, name, and year.")
     subparsers = parser.add_subparsers(dest='command', required=True, help="Subcommands")
 
+    # Get default values for create command
+    default_year = get_latest_year()
+    default_id = get_next_id(default_year)
+
     remove_parser = subparsers.add_parser('remove', help='Removes a content page')
     remove_parser.add_argument('--year', type=str, required=True, help='The year')
     remove_parser.add_argument('--id', type=str, required=True, help='The content id')
 
     create_parser = subparsers.add_parser('create', help='Creates a content page')
-    create_parser.add_argument('--year', type=str, required=True, help='The year')
-    create_parser.add_argument('--id', type=str, required=True, help='The content id')
+    create_parser.add_argument('--year', type=str, default=default_year, help=f'The year (default: {default_year})')
+    create_parser.add_argument('--id', type=str, default=default_id, help=f'The content id (default: {default_id})')
     create_parser_group = create_parser.add_mutually_exclusive_group(required=True)
     create_parser_group.add_argument('--template', action='store_true')
     create_parser_group.add_argument('--input', type=str)
@@ -87,6 +134,7 @@ def create_base_paths(year: str, index: str):
 
     os.mkdir(content_path)
     os.mkdir(image_path)
+    print(f'Using year: {year} and id: {index}')
     print(f'Created {content_path}')
 
 
@@ -164,6 +212,7 @@ def copy_images(year: str, content_id: str, input_path: Path):
     
     The first image found is also copied as a thumbnail.
     All images are renamed according to the pattern: year-contentId-counter.jpg
+    Searches recursively through all subdirectories.
     
     Args:
         year (str): The year for the content
@@ -177,8 +226,17 @@ def copy_images(year: str, content_id: str, input_path: Path):
     image_path = content_path.joinpath('img')
     counter = 1
 
-    # Iterate through all files in the directory
-    for file_path in sorted(input_path.iterdir()):
+    # Get all files recursively
+    all_files = []
+    for root, _, files in os.walk(input_path):
+        for file in files:
+            all_files.append(Path(root) / file)
+
+    # Sort files to ensure consistent ordering
+    all_files.sort()
+
+    # Process all image files
+    for file_path in all_files:
         if file_path.is_file():
             mime_type, _ = mimetypes.guess_type(file_path)
             if mime_type and mime_type == 'image/jpeg':
@@ -191,6 +249,7 @@ def copy_images(year: str, content_id: str, input_path: Path):
                 shutil.copy(file_path, new_image)
                 print(f'Copy {file_path.name} to {new_image}')
                 counter = counter + 1
+
     if counter == 1:
         raise FileNotFoundError(f'No JPG images found in {input_path}')
 
@@ -236,7 +295,7 @@ def find_markdown_content(input_path: Path) -> str:
     """
     for file_path in input_path.iterdir():
         if file_path.is_file() and file_path.suffix == '.md':
-            print(f'Use markdown file: {file_path.name}')
+            print(f'Use markdown file: {file_path}')
             with open(file_path, 'r') as md_file:
                 content = md_file.read()
                 return content
