@@ -32,6 +32,17 @@ _INDEX_TEMPLATE_SHORTCODE_SNIPPET = '\n{{< image src="img01" >}}'
 
 
 def parse_arguments():
+    """
+    Parse command line arguments for the script.
+    
+    Sets up the argument parser with three subcommands:
+    - create: Creates a new content page with either a template or from input
+    - remove: Removes an existing content page
+    - print: Prints the content of an existing page
+    
+    Returns:
+        argparse.Namespace: The parsed command line arguments
+    """
     parser = argparse.ArgumentParser(description="Parse arguments for template, name, and year.")
     subparsers = parser.add_subparsers(dest='command', required=True, help="Subcommands")
 
@@ -56,6 +67,18 @@ def parse_arguments():
 
 
 def create_base_paths(year: str, index: str):
+    """
+    Create the base directory structure for a new content page.
+    
+    Creates the content directory and an img subdirectory for storing images.
+    
+    Args:
+        year (str): The year for the content
+        index (str): The ID for the content
+        
+    Raises:
+        FileExistsError: If the content path already exists
+    """
     content_path = _TARGET_BASE_PATH.joinpath(year).joinpath(index)
     image_path = content_path.joinpath('img')
 
@@ -68,6 +91,13 @@ def create_base_paths(year: str, index: str):
 
 
 def print_content(year: str, content_id: str):
+    """
+    Print the contents of an index.md file for a specific content page.
+    
+    Args:
+        year (str): The year of the content
+        content_id (str): The ID of the content
+    """
     content_path = _TARGET_BASE_PATH.joinpath(year).joinpath(content_id)
     index_file = content_path.joinpath('index.md')
     with open(index_file, 'r') as file:
@@ -76,6 +106,15 @@ def print_content(year: str, content_id: str):
 
 
 def remove_content(year: str, content_id: str):
+    """
+    Remove a content page and its associated thumbnail.
+    
+    Deletes both the content directory and the thumbnail image.
+    
+    Args:
+        year (str): The year of the content to remove
+        content_id (str): The ID of the content to remove
+    """
     content_path = _TARGET_BASE_PATH.joinpath(year).joinpath(content_id)
     thumbnail_path = _THUMBNAIL_FULL_BASE_PATH.joinpath(year).joinpath(f'{content_id}.jpg')
     shutil.rmtree(content_path)
@@ -85,6 +124,17 @@ def remove_content(year: str, content_id: str):
 
 
 def parse_date_from_path(path: Path) -> datetime:
+    """
+    Extract and parse a date from a directory path name.
+    
+    Expects the directory name to start with a date in the format defined by _DATE_INPUT_FORMAT.
+    
+    Args:
+        path (Path): The path object containing the date in its name
+        
+    Returns:
+        datetime: The parsed datetime object
+    """
     date_time: str = path.name.split(' ')[0]
     date_time: datetime = datetime.strptime(date_time, _DATE_INPUT_FORMAT)
     print(f'Parsing date "{date_time}" from "{path.name}"')
@@ -92,12 +142,37 @@ def parse_date_from_path(path: Path) -> datetime:
 
 
 def parse_tag_from_path(path: Path) -> str:
+    """
+    Extract a tag from a directory path name.
+    
+    Expects the directory name to have a tag as the second element when split by spaces.
+    
+    Args:
+        path (Path): The path object containing the tag in its name
+        
+    Returns:
+        str: The extracted tag
+    """
     tag = path.name.split(' ')[1]
     print(f'Parsing tag "{tag}" from "{path.name}"')
     return tag
 
 
 def copy_images(year: str, content_id: str, input_path: Path):
+    """
+    Copy JPEG images from an input directory to the content directory.
+    
+    The first image found is also copied as a thumbnail.
+    All images are renamed according to the pattern: year-contentId-counter.jpg
+    
+    Args:
+        year (str): The year for the content
+        content_id (str): The ID for the content
+        input_path (Path): The path to the directory containing source images
+        
+    Raises:
+        FileNotFoundError: If no JPEG images are found in the input directory
+    """
     content_path = _TARGET_BASE_PATH.joinpath(year).joinpath(content_id)
     image_path = content_path.joinpath('img')
     counter = 1
@@ -121,6 +196,18 @@ def copy_images(year: str, content_id: str, input_path: Path):
 
 
 def get_images_snippet(year: str, content_id: str) -> (str, str):
+    """
+    Generate resources and shortcodes snippets for all images in the content directory.
+    
+    Creates Hugo resource declarations and image shortcodes for each image file.
+    
+    Args:
+        year (str): The year of the content
+        content_id (str): The ID of the content
+        
+    Returns:
+        tuple: A tuple containing (resources_string, shortcodes_string)
+    """
     content_path = _TARGET_BASE_PATH.joinpath(year).joinpath(content_id)
     image_path = content_path.joinpath('img')
     index_file = content_path.joinpath('index.md')
@@ -135,7 +222,18 @@ def get_images_snippet(year: str, content_id: str) -> (str, str):
 
 
 def find_markdown_content(input_path: Path) -> str:
-    """Find and read the content of a markdown file in the given directory."""
+    """
+    Find and read the content of a markdown file in the given directory.
+    
+    Searches for any .md file in the input directory and returns its contents.
+    If multiple markdown files exist, only the first one found will be used.
+    
+    Args:
+        input_path (Path): The directory to search for markdown files
+        
+    Returns:
+        str: The content of the markdown file, or an empty string if none found
+    """
     for file_path in input_path.iterdir():
         if file_path.is_file() and file_path.suffix == '.md':
             print(f'Use markdown file: {file_path.name}')
@@ -155,6 +253,21 @@ def create_index_file(year: str,
                       resources: str,
                       shortcodes: str,
                       markdown_content: str = ''):
+    """
+    Create an index.md file for a content page using the template.
+    
+    Formats the provided parameters into the index template and writes it to disk.
+    
+    Args:
+        year (str): The year of the content
+        content_id (str): The ID of the content
+        date (datetime): The date for the content
+        thumbnail (str): Path to the thumbnail image
+        tag (str): The tag for the content
+        resources (str): The resources section for Hugo
+        shortcodes (str): The image shortcodes
+        markdown_content (str, optional): Additional markdown content. Defaults to ''.
+    """
     content_path = _TARGET_BASE_PATH.joinpath(year).joinpath(content_id)
     index_file = content_path.joinpath('index.md')
 
