@@ -7,7 +7,7 @@ type: minimal
 
 Diese sind keine offiziellen Medien der Feuerwehr Hamburg!
 
-## Verantwortlich im Sinne des Teledienstegesetzes (TDG), bzw. des Mediendienststaatsvertrages (MDStv):
+## Verantwortlich im Sinne des Digitale-Dienste-Gesetzes (DDG):
 
 Förderverein der Freiwilligen Feuerwehr Hamburg-Eppendorf e.V.
  
