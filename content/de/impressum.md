@@ -7,7 +7,7 @@ type: minimal
 # Impressum für die Website FF-Eppendorf.de
 Diese Seite ist kein offizielles Medium der Feuerwehr Hamburg / This site is an unofficial site.
 
-## Verantwortlich im Sinne des Teledienstegesetzes (TDG), bzw. des Mediendienststaatsvertrages (MDStv):
+## Verantwortlich im Sinne des Digitale-Dienste-Gesetzes (DDG):
 
 Förderverein der Freiwilligen Feuerwehr Hamburg-Eppendorf e.V.
  
