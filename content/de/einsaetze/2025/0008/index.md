@@ -25,7 +25,7 @@ Vor Ort hatten die Einsatzkräfte einen schadhaften, dreistämmigen ca. 25m hohe
 Es bestand die akute Gefahr des weiteren Umstürzens. 
 Vor Beginn der Fällarbeiten mussten durch unsere Einsatzkräfte über die DLK vorbereitende Sägearbeiten durchgeführt werden und die Sicherung mit Anschlagmitteln per Drahtseil über die Seilwinde des GWR3 im direkten Zug an einem Stammteil angebracht werden.
 Hiernach konnten alleinig durch die 8t-Seilwinde zwei der drei Stammteile umgezogen werden.
-Danach wurde die seilwindenunterstützte Fällung unter Zuhilfenahme einer leistungsstarken Motorkettensäge mit langer Sägeschiene erfolgreich ohne weitere Schäden vorgenommen werden.
+Danach wurde die seilwindenunterstützte Fällung unter Zuhilfenahme einer leistungsstarken Motorkettensäge mit langer Sägeschiene erfolgreich ohne weitere Schäden vorgenommen.
 Die Gefahr wurde beseitigt.
 Die FF Eppendorf war mit 15 Einsatzkräften vor Ort.
 Reinigungs- und Instandsetzungsmaßnahmen der Sägen sowie eingesetzten Geräte konnten noch an der Einsatzstelle durchgeführt werden. 
