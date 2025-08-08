@@ -13,3 +13,7 @@ E-Mail: info@ff-eppendorf.de
 **Wehrführer**  
 Olaf Huth  
 E-Mail: wf@ff-eppendorf.de  
+
+**Wehrführer Vertreter**  
+Jan-Christopher Riediger  
+E-Mail: info@ff-eppendorf.de  
