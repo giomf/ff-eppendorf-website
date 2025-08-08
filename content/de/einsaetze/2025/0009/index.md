@@ -1,5 +1,5 @@
 ---
-title: Brennende E-Lok mittels Cobra Schneidlöschsystem gelöscht␍
+title: Brennende E-Lok mittels Cobra Schneidlöschsystem gelöscht
 date: 2025-06-06 03:22:00
 description: Brennende E-Lok mittels Cobra Schneidlöschsystem gelöscht␍
 thumbnail: img/einsaetze/2025/0009.jpg
@@ -14,7 +14,7 @@ resources:
 - name: img04
   src: img/2025-0009-04.jpg
 ---
-Brennende E-Lok mittels Cobra Schneidlöschsystem gelöscht␍
+Brennende E-Lok mittels Cobra Schneidlöschsystem gelöscht
 
 Am frühen Freitagmorgen des 06.06.2025 gegen 03:20 Uhr wurden GKW und LH-TH der FF Eppendorf in den Stadtteil Langenhorn alarmiert.
 Zeitgleich wurde die HLG 16 (FuRw Alsterdorf), der Einsatzführungsdienst Ost (BDI 20/1), ein WLF mit AB Hafen (TuUw 32) sowie die FFen Langenhorn und Langenhorn-Nord mit dem Stichwort FEUZUG, brennt Akku einer Elektrolok alarmiert.
