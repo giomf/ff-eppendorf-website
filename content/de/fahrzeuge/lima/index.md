@@ -26,8 +26,7 @@ Lichtmast- und Generatorenanhänger mit einer Maximalleistung von 28 kVA (1-achs
 
 |              |                                                                                               |
 | ------------ | --------------------------------------------------------------------------------------------- |
-| Typ          | IVECO / EUROFIRE 135 E 24 (4x4)                                                               |
-| Besatzung    | 1 / 8                                                                                         |
+| Typ          | DW 20 DE 15 L15 HH FLA                                                                        |
 | Länge        | 3750 mm                                                                                       |
 | Breite       | 2333 mm                                                                                       |
 | Höhe         | 2850 mm                                                                                       |
