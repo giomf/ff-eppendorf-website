@@ -1,19 +1,17 @@
 ---
 title: Datenschutzerklärung
-date: 2023-08-30
+date: 2025-11-04
 ---
-
-## Einleitung
-Mit der folgenden Datenschutzerklärung möchten wir Sie darüber aufklären, welche Arten Ihrer personenbezogenen Daten (nachfolgend auch kurz als "Daten“ bezeichnet) wir zu welchen Zwecken und in welchem Umfang verarbeiten. Die Datenschutzerklärung gilt für alle von uns durchgeführten Verarbeitungen personenbezogener Daten, sowohl im Rahmen der Erbringung unserer Leistungen als auch insbesondere auf unseren Webseiten, in mobilen Applikationen sowie innerhalb externer Onlinepräsenzen, wie z.B. unserer Social-Media-Profile (nachfolgend zusammenfassend bezeichnet als "Onlineangebot“).
-
+## Einleitung  
+Mit der folgenden Datenschutzerklärung möchten wir Sie darüber aufklären, welche Arten Ihrer personenbezogenen Daten (nachfolgend auch kurz als “Daten“ bezeichnet) wir zu welchen Zwecken und in welchem Umfang verarbeiten.
+Die Datenschutzerklärung gilt für alle von uns durchgeführten Verarbeitungen personenbezogener Daten, sowohl im Rahmen der Erbringung unserer Leistungen als auch insbesondere auf unseren Webseiten, in mobilen Applikationen sowie innerhalb externer Onlinepräsenzen, wie z.B. unserer Social-Media-Profile (nachfolgend zusammenfassend bezeichnet als “Onlineangebot“).
 Die verwendeten Begriffe sind nicht geschlechtsspezifisch.
 
 Stand: 23. Januar 2023
 
-## Verantwortliche Stelle 
+## Verantwortlicher für die Datenverarbeitung
+Förderverein der Freiwilligen Feuerwehr Hamburg-Eppendorf e.V.  
 
-Förderverein der Freiwilligen Feuerwehr Hamburg-Eppendorf e.V.
- 
 c/o Meister  
 Semperstraße 8  
 D-22303 Hamburg  
@@ -27,89 +25,174 @@ Johannes Raddatz
 Telefon: +49 160 955 23 090  
 E-Mail: webmaster@ff-eppendorf.de  
 
-## Übersicht der Verarbeitungen
-Die nachfolgende Übersicht fasst die Arten der verarbeiteten Daten und die Zwecke ihrer Verarbeitung zusammen und verweist auf die betroffenen Personen.
 
-1. Arten der verarbeiteten Daten   
-Inhaltsdaten.
-Nutzungsdaten.
-Meta-, Kommunikations- und Verfahrensdaten.
-2. Kategorien betroffener Personen   
-Nutzer.
-3. Zwecke der Verarbeitung   
-Erbringung vertraglicher Leistungen und Kundenservice.
-Sicherheitsmaßnahmen.
-Bereitstellung unseres Onlineangebotes und Nutzerfreundlichkeit.
-Informationstechnische Infrastruktur.
-4. Maßgebliche Rechtsgrundlagen   
-Im Folgenden erhalten Sie eine Übersicht der Rechtsgrundlagen der DSGVO, auf deren Basis wir personenbezogene Daten verarbeiten. Bitte nehmen Sie zur Kenntnis, dass neben den Regelungen der DSGVO nationale Datenschutzvorgaben in Ihrem bzw. unserem Wohn- oder Sitzland gelten können. Sollten ferner im Einzelfall speziellere Rechtsgrundlagen maßgeblich sein, teilen wir Ihnen diese in der Datenschutzerklärung mit.
+## Zwecke der Datenverarbeitung und Rechtsgrundlagen
+Wir verarbeiten personenbezogene Daten im Einklang mit den Bestimmungen der Datenschutz-Grundverordnung (DSGVO) sowie den nationalen Datenschutzgesetzen zu folgenden allgemeinen Zwecken:
 
-Berechtigte Interessen (Art. 6 Abs. 1 S. 1 lit. f) DSGVO) - Die Verarbeitung ist zur Wahrung der berechtigten Interessen des Verantwortlichen oder eines Dritten erforderlich, sofern nicht die Interessen oder Grundrechte und Grundfreiheiten der betroffenen Person, die den Schutz personenbezogener Daten erfordern, überwiegen.
+Zur Erfüllung vertraglicher Pflichten (Art. 6 Abs. 1 lit. b DSGVO):  
+Die Verarbeitung personenbezogener Daten erfolgt zur Durchführung vorvertraglicher Maßnahmen und zur Erfüllung vertraglicher Pflichten, insbesondere im Rahmen von Bestellungen, Anfragen oder der Nutzung unserer Dienste.
 
-Zusätzlich zu den Datenschutzregelungen der DSGVO gelten nationale Regelungen zum Datenschutz in Deutschland. Hierzu gehört insbesondere das Gesetz zum Schutz vor Missbrauch personenbezogener Daten bei der Datenverarbeitung (Bundesdatenschutzgesetz – BDSG). Das BDSG enthält insbesondere Spezialregelungen zum Recht auf Auskunft, zum Recht auf Löschung, zum Widerspruchsrecht, zur Verarbeitung besonderer Kategorien personenbezogener Daten, zur Verarbeitung für andere Zwecke und zur Übermittlung sowie automatisierten Entscheidungsfindung im Einzelfall einschließlich Profiling. Des Weiteren regelt es die Datenverarbeitung für Zwecke des Beschäftigungsverhältnisses (§ 26 BDSG), insbesondere im Hinblick auf die Begründung, Durchführung oder Beendigung von Beschäftigungsverhältnissen sowie die Einwilligung von Beschäftigten. Ferner können Landesdatenschutzgesetze der einzelnen Bundesländer zur Anwendung gelangen.
+Zur Erfüllung rechtlicher Verpflichtungen (Art. 6 Abs. 1 lit. c DSGVO):
+Die Verarbeitung kann erforderlich sein, um gesetzlichen Verpflichtungen nachzukommen, z. B. handels- oder steuerrechtlichen Aufbewahrungspflichten.
 
-## Sicherheitsmaßnahmen
-Wir treffen nach Maßgabe der gesetzlichen Vorgaben unter Berücksichtigung des Stands der Technik, der Implementierungskosten und der Art, des Umfangs, der Umstände und der Zwecke der Verarbeitung sowie der unterschiedlichen Eintrittswahrscheinlichkeiten und des Ausmaßes der Bedrohung der Rechte und Freiheiten natürlicher Personen geeignete technische und organisatorische Maßnahmen, um ein dem Risiko angemessenes Schutzniveau zu gewährleisten.
+Zur Wahrung berechtigter Interessen (Art. 6 Abs. 1 lit. f DSGVO):
+Eine Verarbeitung erfolgt ggf. zur Wahrung berechtigter Interessen von uns oder Dritten. Unsere berechtigten Interessen können sich etwa aus der Gewährleistung der IT-Sicherheit, aus Werbeinteressen oder aus einer Optimierung unseres Angebots ergeben.
 
-Zu den Maßnahmen gehören insbesondere die Sicherung der Vertraulichkeit, Integrität und Verfügbarkeit von Daten durch Kontrolle des physischen und elektronischen Zugangs zu den Daten als auch des sie betreffenden Zugriffs, der Eingabe, der Weitergabe, der Sicherung der Verfügbarkeit und ihrer Trennung. Des Weiteren haben wir Verfahren eingerichtet, die eine Wahrnehmung von Betroffenenrechten, die Löschung von Daten und Reaktionen auf die Gefährdung der Daten gewährleisten. Ferner berücksichtigen wir den Schutz personenbezogener Daten bereits bei der Entwicklung bzw. Auswahl von Hardware, Software sowie Verfahren entsprechend dem Prinzip des Datenschutzes, durch Technikgestaltung und durch datenschutzfreundliche Voreinstellungen.
+Aufgrund Ihrer Einwilligung (Art. 6 Abs. 1 lit. a DSGVO):  
+Sofern Sie uns eine Einwilligung zur Verarbeitung Ihrer personenbezogenen Daten für bestimmte Zwecke erteilt haben (z. B. zur Zusendung von Newslettern oder zur Analyse Ihres Nutzerverhaltens), erfolgt die Verarbeitung auf dieser Grundlage. Eine erteilte Einwilligung kann jederzeit mit Wirkung für die Zukunft widerrufen werden.
 
-TLS-Verschlüsselung (https): Um Ihre via unserem Online-Angebot übermittelten Daten zu schützen, nutzen wir eine TLS-Verschlüsselung. Sie erkennen derart verschlüsselte Verbindungen an dem Präfix https:// in der Adresszeile Ihres Browsers.
-
-## Löschung von Daten
-Die von uns verarbeiteten Daten werden nach Maßgabe der gesetzlichen Vorgaben gelöscht, sobald deren zur Verarbeitung erlaubten Einwilligungen widerrufen werden oder sonstige Erlaubnisse entfallen (z.B. wenn der Zweck der Verarbeitung dieser Daten entfallen ist oder sie für den Zweck nicht erforderlich sind). Sofern die Daten nicht gelöscht werden, weil sie für andere und gesetzlich zulässige Zwecke erforderlich sind, wird deren Verarbeitung auf diese Zwecke beschränkt. D.h., die Daten werden gesperrt und nicht für andere Zwecke verarbeitet. Das gilt z.B. für Daten, die aus handels- oder steuerrechtlichen Gründen aufbewahrt werden müssen oder deren Speicherung zur Geltendmachung, Ausübung oder Verteidigung von Rechtsansprüchen oder zum Schutz der Rechte einer anderen natürlichen oder juristischen Person erforderlich ist.
-
-Im Rahmen unserer Datenschutzhinweise können wir den Nutzern weitere Informationen zu der Löschung sowie zu der Aufbewahrung von Daten mitteilen, die speziell für die jeweiligen Verarbeitungsprozesses gelten.
-
-## Bereitstellung des Onlineangebotes und Webhosting
-Wir verarbeiten die Daten der Nutzer, um ihnen unsere Online-Dienste zur Verfügung stellen zu können. Zu diesem Zweck verarbeiten wir die IP-Adresse des Nutzers, die notwendig ist, um die Inhalte und Funktionen unserer Online-Dienste an den Browser oder das Endgerät der Nutzer zu übermitteln.
-
-1. Verarbeitete Datenarten:   
-Nutzungsdaten (z.B. besuchte Webseiten, Interesse an Inhalten, Zugriffszeiten); Meta-, Kommunikations- und Verfahrensdaten (z. B. IP-Adressen, Zeitangaben, Identifikationsnummern, Einwilligungsstatus); Inhaltsdaten (z.B. Eingaben in Onlineformularen).
-2. Betroffene Personen:    
-Nutzer (z.B. Webseitenbesucher, Nutzer von Onlinediensten).
-3. Zwecke der Verarbeitung:    
-Bereitstellung unseres Onlineangebotes und Nutzerfreundlichkeit; Informationstechnische Infrastruktur (Betrieb und Bereitstellung von Informationssystemen und technischen Geräten (Computer, Server etc.); Sicherheitsmaßnahmen; Erbringung vertraglicher Leistungen und Kundenservice.
-4. Rechtsgrundlagen:     
-Berechtigte Interessen (Art. 6 Abs. 1 S. 1 lit. f) DSGVO).
+Die konkreten Zwecke der Verarbeitung und die im Einzelfall jeweils einschlägigen Rechtsgrundlagen können den weiterführenden Abschnitten dieser Datenschutzerklärung entnommen werden.
 
 
-#### Weitere Hinweise zu Verarbeitungsprozessen, Verfahren und Diensten:
+## Verarbeitung Ihrer personenbezogenen Daten beim Besuch unserer Website
+Bei der informatorischen Nutzung unserer Website – also wenn Sie sich nicht registrieren oder uns anderweitig aktiv Informationen über sich übermitteln – erheben wir nur diejenigen personenbezogenen Daten, die Ihr Browser automatisch an unseren Server übermittelt.
+Diese Daten sind technisch erforderlich, um Ihnen die Website korrekt anzuzeigen sowie deren Stabilität, Sicherheit und Funktionalität zu gewährleisten.
 
-1. Bereitstellung Onlineangebot auf gemietetem Speicherplatz: Für die Bereitstellung unseres Onlineangebotes nutzen wir Speicherplatz, Rechenkapazität und Software, die wir von einem entsprechenden Serveranbieter (auch "Webhoster" genannt) mieten oder anderweitig beziehen; Rechtsgrundlagen: Berechtigte Interessen (Art. 6 Abs. 1 S. 1 lit. f) DSGVO).
-2. Erhebung von Zugriffsdaten und Logfiles: Der Zugriff auf unser Onlineangebot wird in Form von so genannten "Server-Logfiles" protokolliert. Zu den Serverlogfiles können die Adresse und Name der abgerufenen Webseiten und Dateien, Datum und Uhrzeit des Abrufs, übertragene Datenmengen, Meldung über erfolgreichen Abruf, Browsertyp nebst Version, das Betriebssystem des Nutzers, Referrer URL (die zuvor besuchte Seite) und im Regelfall IP-Adressen und der anfragende Provider gehören. Die Serverlogfiles können zum einen zu Zwecken der Sicherheit eingesetzt werden, z.B., um eine Überlastung der Server zu vermeiden (insbesondere im Fall von missbräuchlichen Angriffen, sogenannten DDoS-Attacken) und zum anderen, um die Auslastung der Server und ihre Stabilität sicherzustellen; Rechtsgrundlagen: Berechtigte Interessen (Art. 6 Abs. 1 S. 1 lit. f) DSGVO); Löschung von Daten: Logfile-Informationen werden für die Dauer von maximal 30 Tagen gespeichert und danach gelöscht oder anonymisiert. Daten, deren weitere Aufbewahrung zu Beweiszwecken erforderlich ist, sind bis zur endgültigen Klärung des jeweiligen Vorfalls von der Löschung ausgenommen.
-3. 1&1 IONOS: Leistungen auf dem Gebiet der Bereitstellung von informationstechnischer Infrastruktur und verbundenen Dienstleistungen (z.B. Speicherplatz und/oder Rechenkapazitäten); Dienstanbieter: 1&1 IONOS SE, Elgendorfer Str. 57, 56410 Montabaur, Deutschland; Rechtsgrundlagen: Berechtigte Interessen (Art. 6 Abs. 1 S. 1 lit. f) DSGVO); Website: https://www.ionos.de; Datenschutzerklärung: https://www.ionos.de/terms-gtc/terms-privacy; Auftragsverarbeitungsvertrag: https://www.ionos.de/hilfe/datenschutz/allgemeine-informationen-zur-datenschutz-grundverordnung-dsgvo/auftragsverarbeitung/.   
-4. Instart: Content-Delivery-Network (CDN) - Dienst, mit dessen Hilfe Inhalte eines Onlineangebotes, insbesondere große Mediendateien, wie Grafiken oder Programm-Skripte mit Hilfe regional verteilter und über das Internet verbundener Server, schneller und sicherer ausgeliefert werden können; Dienstanbieter: Instart Logic, Inc., 450 Lambert Avenue, Palo Alto, CA 94306, USA; Rechtsgrundlagen: Berechtigte Interessen (Art. 6 Abs. 1 S. 1 lit. f) DSGVO); Website: https://www.instart.com; Datenschutzerklärung: https://www.instart.com/company/legal/privacy-policy.
-## Änderung und Aktualisierung der Datenschutzerklärung
-Wir bitten Sie, sich regelmäßig über den Inhalt unserer Datenschutzerklärung zu informieren. Wir passen die Datenschutzerklärung an, sobald die Änderungen der von uns durchgeführten Datenverarbeitungen dies erforderlich machen. Wir informieren Sie, sobald durch die Änderungen eine Mitwirkungshandlung Ihrerseits (z.B. Einwilligung) oder eine sonstige individuelle Benachrichtigung erforderlich wird.
+Dabei können insbesondere folgende Informationen verarbeitet werden:  
+* Browsertyp und Browserversion
+* verwendetes Betriebssystem
+* Referrer-URL (die zuvor besuchte Seite)
+* Hostname des zugreifenden Endgeräts
+* Datum und Uhrzeit der Serveranfrage
+* IP-Adresse (ggf. in gekürzter Form)
+* ggf. übertragene Datenmenge und Zugriffsstatus
+* Sprache und Version der Browsersoftware
 
-Sofern wir in dieser Datenschutzerklärung Adressen und Kontaktinformationen von Unternehmen und Organisationen angeben, bitten wir zu beachten, dass die Adressen sich über die Zeit ändern können und bitten die Angaben vor Kontaktaufnahme zu prüfen.
+Die Verarbeitung dieser Daten erfolgt auf Grundlage von Art. 6 Abs. 1 lit. f DSGVO.
+Unser berechtigtes Interesse liegt in der ordnungsgemäßen Darstellung der Website sowie in der Gewährleistung von Stabilität, Sicherheit und technischen Betriebsabläufen (z. B. Fehleranalyse, Missbrauchserkennung, Lastverteilung).
+Diese Daten werden in der Regel temporär gespeichert und nach Ablauf einer bestimmten Frist automatisiert gelöscht, sofern keine weitergehende Aufbewahrung zu Beweiszwecken erforderlich ist, in der Regel 30 Tage. 
 
-## Rechte der betroffenen Personen
-Ihnen stehen als Betroffene nach der DSGVO verschiedene Rechte zu, die sich insbesondere aus Art. 15 bis 21 DSGVO ergeben:
 
-1. Widerspruchsrecht:   
- Sie haben das Recht, aus Gründen, die sich aus Ihrer besonderen Situation ergeben, jederzeit gegen die Verarbeitung der Sie betreffenden personenbezogenen Daten, die aufgrund von Art. 6 Abs. 1 lit. e oder f DSGVO erfolgt, Widerspruch einzulegen; dies gilt auch für ein auf diese Bestimmungen gestütztes Profiling. Werden die Sie betreffenden personenbezogenen Daten verarbeitet, um Direktwerbung zu betreiben, haben Sie das Recht, jederzeit Widerspruch gegen die Verarbeitung der Sie betreffenden personenbezogenen Daten zum Zwecke derartiger Werbung einzulegen; dies gilt auch für das Profiling, soweit es mit solcher Direktwerbung in Verbindung steht.
-2. Widerrufsrecht bei Einwilligungen:    
-Sie haben das Recht, erteilte Einwilligungen jederzeit zu widerrufen.
-3. Auskunftsrecht:    
-Sie haben das Recht, eine Bestätigung darüber zu verlangen, ob betreffende Daten verarbeitet werden und auf Auskunft über diese Daten sowie auf weitere Informationen und Kopie der Daten entsprechend den gesetzlichen Vorgaben.
-4. Recht auf Berichtigung:    
- Sie haben entsprechend den gesetzlichen Vorgaben das Recht, die Vervollständigung der Sie betreffenden Daten oder die Berichtigung der Sie betreffenden unrichtigen Daten zu verlangen.
-5. Recht auf Löschung und Einschränkung der Verarbeitung:    
-Sie haben nach Maßgabe der gesetzlichen Vorgaben das Recht, zu verlangen, dass Sie betreffende Daten unverzüglich gelöscht werden, bzw. alternativ nach Maßgabe der gesetzlichen Vorgaben eine Einschränkung der Verarbeitung der Daten zu verlangen.
-6. Recht auf Datenübertragbarkeit:    
-Sie haben das Recht, Sie betreffende Daten, die Sie uns bereitgestellt haben, nach Maßgabe der gesetzlichen Vorgaben in einem strukturierten, gängigen und maschinenlesbaren Format zu erhalten oder deren Übermittlung an einen anderen Verantwortlichen zu fordern.
-7. Beschwerde bei Aufsichtsbehörde:    
-Entsprechend den gesetzlichen Vorgaben und unbeschadet eines anderweitigen verwaltungsrechtlichen oder gerichtlichen Rechtsbehelfs, haben Sie ferner das Recht, bei einer Datenschutzaufsichtsbehörde, insbesondere einer Aufsichtsbehörde im Mitgliedstaat, in dem Sie sich gewöhnlich aufhalten, der Aufsichtsbehörde Ihres Arbeitsplatzes oder des Ortes des mutmaßlichen Verstoßes, eine Beschwerde einzulegen, wenn Sie der Ansicht sei sollten, dass die Verarbeitung der Ihre Person betreffenden personenbezogenen Daten gegen die DSGVO verstößt.
+## Einsatz von Cookies
+Auf dieser Website werden keine Cookies oder vergleichbare Technologien eingesetzt.
+Deshalb sind auch keine Einstellungen oder Einwilligungen erforderlich.
+Falls sich dies in Zukunft ändert, informieren wir Sie umgehend und passen die Datenschutzerklärung entsprechend an. 
 
-## Begriffsdefinitionen
-In diesem Abschnitt erhalten Sie eine Übersicht über die in dieser Datenschutzerklärung verwendeten Begrifflichkeiten. Viele der Begriffe sind dem Gesetz entnommen und vor allem im Art. 4 DSGVO definiert. Die gesetzlichen Definitionen sind verbindlich. Die nachfolgenden Erläuterungen sollen dagegen vor allem dem Verständnis dienen. Die Begriffe sind alphabetisch sortiert.
 
-1. Personenbezogene Daten:   
- "Personenbezogene Daten“ sind alle Informationen, die sich auf eine identifizierte oder identifizierbare natürliche Person (im Folgenden "betroffene Person“) beziehen; als identifizierbar wird eine natürliche Person angesehen, die direkt oder indirekt, insbesondere mittels Zuordnung zu einer Kennung wie einem Namen, zu einer Kennnummer, zu Standortdaten, zu einer Online-Kennung (z.B. Cookie) oder zu einem oder mehreren besonderen Merkmalen identifiziert werden kann, die Ausdruck der physischen, physiologischen, genetischen, psychischen, wirtschaftlichen, kulturellen oder sozialen Identität dieser natürlichen Person sind.
-2. Verantwortlicher:    
- Als "Verantwortlicher“ wird die natürliche oder juristische Person, Behörde, Einrichtung oder andere Stelle, die allein oder gemeinsam mit anderen über die Zwecke und Mittel der Verarbeitung von personenbezogenen Daten entscheidet, bezeichnet.
-3. Verarbeitung:   
- "Verarbeitung" ist jeder mit oder ohne Hilfe automatisierter Verfahren ausgeführte Vorgang oder jede solche Vorgangsreihe im Zusammenhang mit personenbezogenen Daten. Der Begriff reicht weit und umfasst praktisch jeden Umgang mit Daten, sei es das Erheben, das Auswerten, das Speichern, das Übermitteln oder das Löschen.    
- 
-[Erstellt mit kostenlosem Datenschutz-Generator.de von Dr. Thomas Schwenke](https://datenschutz-generator.de/)
+## Datenübermittlung und Empfänger (allgemein)
+Eine Übermittlung Ihrer Daten an Dritte findet grundsätzlich nicht statt, es sei denn, wir sind gesetzlich dazu verpflichtet, oder die Datenweitergabe ist zur Durchführung des Vertragsverhältnisses erforderlich oder Sie haben zuvor ausdrücklich in die Weitergabe Ihrer Daten eingewilligt.
+
+Externe Dienstleister und Partnerunternehmen erhalten Daten ausschließlich in dem Umfang, der für die jeweilige Leistung zwingend erforderlich ist.
+Sofern Dienstleister in unserem Auftrag und weisungsgebunden personenbezogene Daten verarbeiten, schließen wir hierüber Auftragsverarbeitungsverträge nach Art. 28 DSGVO und verpflichten sie zur Einhaltung geeigneter technischer und organisatorischer Maßnahmen zum Schutz Ihrer Daten.
+Zur Bereitstellung unserer Online-Dienste nutzen wir externe Hosting-Anbieter.
+Diese speichern und verarbeiten personenbezogene Daten der Nutzer ausschließlich in unserem Auftrag gemäß einem bestehenden Auftrag zur Auftragsverarbeitung.
+Die Datenverarbeitung erfolgt unter Einhaltung der Datenschutzvorschriften und dient dem sicheren Betrieb unserer Webangebote.
+Eine Weitergabe von Daten an Dritte durch den Hosting-Anbieter erfolgt nicht, es sei denn, dies ist gesetzlich vorgeschrieben.
+
+Bitte beachten Sie zusätzlich die Datenschutzhinweise der jeweiligen Anbieter.
+Für Inhalte und Zwecke eigenständig verantwortlicher Dienste ist der jeweilige Anbieter verantwortlich.
+Wir prüfen deren Einsatz im Rahmen des Zumutbaren auf Vereinbarkeit mit den gesetzlichen Anforderungen.
+Wir übernehmen keine Gewähr für Verfügbarkeit, Inhalte oder Rechtmäßigkeit solcher fremden Dienste sowie deren Datenverarbeitung, sofern diese in eigener Verantwortlichkeit erfolgt.
+
+
+## Speicherdauer
+Personenbezogene Daten, die wir erheben, werden bei Fortfall des Zwecks der Verarbeitung oder innerhalb der gesetzlichen Aufbewahrungsfristen gelöscht.
+
+
+## Kontaktaufnahme allgemein (E-Mail, Telefon, Kontaktformular)
+Wenn Sie mit uns Kontakt aufnehmen, verarbeiten wir die von Ihnen mitgeteilten Daten (z. B. Name, E-Mail-Adresse, Telefonnummer, Inhalt der Nachricht, ggf. Anhänge, sowie Zeitstempel, und ggfls. technische Metadaten), um Ihr Anliegen zu bearbeiten und zu dokumentieren.
+Weitere Angaben, die nicht zwingend für eine Kontaktaufnahme erforderlich sind, haben wir als optional gekennzeichnet.
+Diese Angaben sind freiwillig und dienen der besseren Zuordnung Ihres Anliegens bzw. einer effektiven Vorbereitung unserer Antwort.
+
+Die Bearbeitung Ihrer Anfrage erfolgt in der Regel aufgrund unseres berechtigten Interesses an effizienter Kundenkommunikation (Art. 6 Abs. 1 lit. f DSGVO). Von Ihnen freiwillig bereitgestellte Zusatzangaben sowie die Nutzung bestimmter Kommunikationskanäle (z. B. Rückruf per Telefon) verarbeiten wir auf Basis Ihrer Einwilligung (Art. 6 Abs. 1 lit. a DSGVO), die Sie jederzeit mit Wirkung für die Zukunft widerrufen können.
+Je nach konkreter Ausgestaltung Ihrer Anfrage und unserer Kundenbeziehung kann die Kontaktaufnahme auch im Rahmen einer (vor-)vertraglichen Leistungsbeziehung zwischen uns erfolgen (Art. 6 Abs. 1 lit. b DSGVO).
+
+Wir löschen Kontaktanfragen, sobald der Vorgang abgeschlossen ist und keine Aufbewahrungspflichten (z. B. nach HGB/AO bei vertragsrelevanter Korrespondenz) oder berechtigten Interessen (z. B. Nachweis-/Abwehrzwecke, regelmäßig bis zum Ablauf der gesetzlichen Verjährung) entgegenstehen.
+
+
+## Datensicherheit
+Wir schützen Ihre personenbezogenen Daten mit angemessenen technischen und organisatorischen Maßnahmen, die auf dem aktuellen Stand der Technik basieren.
+Dabei berücksichtigen wir Art, Umfang und Zweck der Datenverarbeitung sowie die potenziellen Risiken für Ihre Rechte und Freiheiten.
+
+Unsere Maßnahmen zielen darauf ab, den unbefugten Zugriff, die Veränderung, die Weitergabe und den Verlust von Daten zu verhindern.
+Zudem setzen wir auf den Datenschutz durch datenschutzfreundliche Voreinstellungen und gestalten unsere IT-Systeme so, dass Betroffenenrechte gewahrt werden können.
+Unsere Sicherheitsverfahren werden regelmäßig überprüft und dem technologischen Fortschritt angepasst. 
+
+Für die Übertragung von Daten auf unserer Website nutzen wir eine Verschlüsselungstechnologie (TLS). Sie erkennen eine sichere Verbindung an dem „https://“-Anfang der Webadresse in Ihrem Browser.
+
+
+## Ihre Rechte 
+Sie haben hinsichtlich Ihrer personenbezogenen Daten die Rechte auf Auskunft, Berichtigung, Löschung, Einschränkung der Verarbeitung sowie Datenübertragbarkeit und können erteilte Einwilligungen jederzeit mit Wirkung für die Zukunft widerrufen.
+Zudem können Sie Widerspruch gegen Verarbeitungen einlegen, die auf Art. 6 Abs. 1 lit. e oder f DSGVO beruhen - dies gilt auch für darauf gestütztes Profiling.
+Verarbeiten wir Daten zur Direktwerbung, können Sie dem jederzeit widersprechen - dann erfolgt keine Verarbeitung mehr zu diesem Zweck.
+Soweit ausschließlich automatisierte Entscheidungen (inkl. Profiling) stattfinden und Sie erheblich beeinträchtigen, stehen Ihnen die Rechte aus Art. 22 DSGVO zu.
+Schließlich haben Sie das Recht auf Beschwerde bei einer Datenschutz-Aufsichtsbehörde (Art. 77 DSGVO).
+Zur Ausübung Ihrer Rechte kontaktieren Sie uns über die in dieser Datenschutzerklärung genannten Kontaktdaten.
+
+
+## Social Media 
+Nachfolgend informieren wir Sie ergänzend über die Datenverarbeitung im Zusammenhang mit unseren Social-Media-Auftritten.
+Diese Präsenzen dienen der öffentlichen Information über unseren Förderverein, zur Kommunikation mit Interessierten sowie zur Darstellung unserer Aktivitäten.
+Die Verarbeitung personenbezogener Daten im Rahmen Ihrer Interaktion mit unseren Profilen (z. B. Kommentare, Likes oder Nachrichten) erfolgt teilweise gemeinsam mit den jeweiligen Plattformbetreibern nach Maßgabe der dort geltenden Datenschutzbestimmungen.
+
+
+### Instagram‑Kanal
+Wir betreiben eine Präsenz auf der Plattform Instagram, um mit Interessierten und Freunden des Vereins zu kommunizieren und über unsere Arbeit sowie aktuelle Themen zu informieren.
+Anbieterin des Dienstes ist Meta Platforms Ireland Ltd., 4 Grand Canal Square, Grand Canal Harbour, Dublin 2, Irland (im Folgenden „Meta“).
+
+Beim Besuch unseres Instagram‑Profils verarbeitet Meta personenbezogene Daten wie IP‑Adresse, Geräte‑ und Sitzungsinformationen, Interaktionsdaten und – sofern Sie bei Instagram eingeloggt sind – Kontoinformationen.
+Diese Daten werden nach Angaben von Meta zu Zwecken der Analyse, Werbung, Marktforschung und Sicherheit verarbeitet.
+Weitere Informationen finden Sie in der Datenschutzrichtlinie von Instagram unter: https://www.instagram.com/legal/privacy/.
+
+Gemeinsame Verantwortlichkeit (Art. 26 DSGVO)
+Für bestimmte Verarbeitungsvorgänge (z. B. der sogenannten Instagram Insights) sind wir gemeinsam mit Meta verantwortlich.
+Die Vereinbarung zur gemeinsamen Verantwortlichkeit („Controller Addendum“) finden Sie hier: https://www.facebook.com/legal/controller_addendum.
+
+Meta übernimmt darin im Wesentlichen die primäre Verantwortung für die Verarbeitung von Insights‑Daten, insbesondere hinsichtlich Transparenz‑ und Betroffenenrechten.
+Wir verarbeiten die uns von Meta bereitgestellten anonymisierten Statistiken ausschließlich zur Auswertung der Relevanz unserer Inhalte und zur Optimierung unseres Angebots.
+
+Wenn Sie innerhalb von Instagram mit uns interagieren (z. B. Beiträge liken, kommentieren oder uns eine Nachricht schreiben), verarbeiten wir diese Informationen, um Ihre Anfragen zu beantworten oder auf Ihre Interaktionen zu reagieren.
+Die Grundlage hierfür ist Art. 6 Abs. 1 lit. f DSGVO (berechtigtes Interesse an externer Kommunikation und Öffentlichkeitsarbeit).
+Sofern die Kommunikation inhaltlich mit einem Vertrag in Zusammenhang steht, erfolgt die Verarbeitung auf Grundlage des Art. 6 Abs. 1 lit. b DSGVO.
+
+Bitte beachten Sie, dass bei der Nutzung von Instagram eine Datenübermittlung in die USA stattfinden kann.
+Meta Platforms, Inc. ist gemäß dem EU‑US Data Privacy Framework zertifiziert; der Datentransfer erfolgt daher auf Grundlage eines Angemessenheitsbeschlusses nach Art. 45 DSGVO.
+
+Weitere Informationen zur Ausübung Ihrer Betroffenenrechte (Auskunft, Berichtigung, Löschung, Widerspruch usw.) finden Sie in unserer allgemeinen Datenschutzerklärung.
+Wenn Sie spezifische Datenschutzanfragen zur Verarbeitung durch Meta stellen möchten, können Sie diese direkt an Meta Platforms Ireland Ltd. richten: https://www.facebook.com/help/contact/1650115808681298.
+
+
+### Facebook‑Fanpage
+Wir betreiben eine Unternehmensseite („Fanpage“) auf Facebook, um mit Interessierten und Freunden des Vereins zu kommunizieren und über unsere Arbeit sowie aktuelle Themen zu informieren.
+Anbieterin der Plattform ist Meta Platforms Ireland Ltd., 4 Grand Canal Square, Grand Canal Harbour, Dublin 2, Irland (im Folgenden „Meta“).
+
+Beim Besuch unserer Facebook‑Fanpage verarbeitet Meta personenbezogene Daten (z. B. IP‑Adresse, Geräteinformationen, Nutzungsdaten, Interaktionen und Kommunikationsinhalte).
+Diese Daten werden nach Angaben von Meta insbesondere zu Analyse‑ und Werbezwecken genutzt.
+Weitere Informationen finden Sie in der Datenschutzrichtlinie von Facebook unter https://www.facebook.com/privacy/policy/.
+
+Gemeinsame Verantwortlichkeit (Art. 26 DSGVO)
+Für bestimmte Verarbeitungsvorgänge, insbesondere die statistische Auswertung (Facebook Insights), sind Meta Platforms Ireland Ltd. und wir gemeinsam verantwortlich.
+Die Vereinbarung zur gemeinsamen Verantwortlichkeit („Page Controller Addendum“) finden Sie hier: https://www.facebook.com/legal/terms/page_controller_addendum.
+Meta ist dabei hauptsächlich für die Verarbeitung personenbezogener Daten im Zusammenhang mit Insights und die Erfüllung der Betroffenenrechte zuständig.
+Wir verarbeiten die uns von Meta bereitgestellten anonymisierten Statistiken ausschließlich zur Optimierung unseres Informationsangebots und zur zielgruppengerechten Kommunikation.
+
+Wenn Sie innerhalb von Facebook mit uns interagieren (z. B. Beiträge kommentieren, liken oder uns eine Nachricht senden), verarbeiten wir diese Informationen, um Ihre Anfragen zu bearbeiten oder mit Ihnen zu kommunizieren.
+Rechtsgrundlage hierfür ist Art. 6 Abs. 1 lit. f DSGVO (berechtigtes Interesse an Kommunikation und Öffentlichkeitsarbeit).
+Sofern Ihre Nachricht auf den Abschluss oder die Durchführung eines Vertrags gerichtet ist, erfolgt die Verarbeitung zusätzlich auf Grundlage des Art. 6 Abs. 1 lit. b DSGVO.
+
+Bitte beachten Sie, dass Meta personenbezogene Daten möglicherweise auch in den USA oder andere Drittländer übermittelt.
+Meta Platforms Inc. ist nach dem EU‑US Data Privacy Framework zertifiziert; die Übermittlung erfolgt daher auf Grundlage eines Angemessenheitsbeschlusses nach Art. 45 DSGVO.
+
+Weitere Informationen zu Ihren Betroffenenrechten (Auskunft, Berichtigung, Löschung, Widerspruch usw.) erhalten Sie in unserer allgemeinen Datenschutzerklärung.
+Wenn Sie Datenschutzanfragen zur Verarbeitung durch Meta stellen möchten, können Sie diese direkt an Meta Platforms Ireland Ltd. richten: https://www.facebook.com/help/contact/1650115808681298.
+
+
+### X (vormals Twitter)
+Wir betreiben einen Auftritt auf der Plattform X (vormals Twitter), um mit Interessierten und Freunden des Vereins zu kommunizieren und über unsere Arbeit sowie aktuelle Themen zu informieren.
+Anbieterin der Plattform ist X Corp., 1355 Market Street, Suite 900, San Francisco, CA 94103, USA.
+Für Nutzerinnen und Nutzer im Europäischen Wirtschaftsraum ist Twitter International Unlimited Company, One Cumberland Place, Fenian Street, Dublin 2, D02 AX07, Irland, verantwortlich.
+
+Beim Besuch unseres X-Profils werden personenbezogene Daten durch X verarbeitet.
+Dazu gehören u. a. IP-Adressen, Geräteinformationen, Standortdaten sowie Informationen über Ihr Nutzungsverhalten.
+Auf Art, Umfang und Dauer der Verarbeitung haben wir keinen Einfluss; X handelt dabei eigenverantwortlich. Angaben zur Datenverarbeitung durch X finden Sie in der Datenschutzerklärung von X unter https://twitter.com/de/privacy.
+
+Wir erhalten von X lediglich anonymisierte Nutzungsstatistiken (z. B. Anzahl der Follower, Reichweiten und Interaktionen).
+Diese nutzen wir, um die Inhalte unseres Profils zu optimieren. Ein Rückschluss auf einzelne Personen erfolgt nicht.
+
+Wenn Sie mit unserem Profil interagieren (z. B. Beiträge liken, kommentieren oder teilen), verarbeiten wir die dabei von Ihnen öffentlich bereitgestellten Inhalte ausschließlich, um auf Ihre Anliegen zu reagieren oder Kommunikation zu ermöglichen.
+
+Die Rechtsgrundlage für unsere Datenverarbeitung ist Art. 6 Abs. 1 lit. f DSGVO (berechtigtes Interesse an externer Kommunikation und Öffentlichkeitsarbeit).
+
+Bitte beachten Sie, dass bei der Nutzung von X eine Datenübermittlung in die USA stattfinden kann.
+Diese erfolgt durch X auf Grundlage der EU-Standardvertragsklauseln gemäß Art. 46 DSGVO.
+
