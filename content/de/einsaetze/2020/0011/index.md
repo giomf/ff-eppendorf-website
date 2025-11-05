@@ -1,7 +1,7 @@
 ---
 title: Dachhautöffnung bei Großbrand
 date: 2020-06-08 16:39:10
-description: Dachhautöffnung bei Großbrand
+description: " "
 thumbnail: img/einsaetze/2020/0011.jpg
 resources:
 - name: img-00

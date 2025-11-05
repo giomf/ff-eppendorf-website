@@ -1,53 +1,45 @@
 [main]
     separator = "-"
     description = "Freiwillige Feuerwehr Hamburg-Eppendorf - Technischer Zug"
-    enableDarkMode = true
-    modes = ["light", "dark"]
     canonifyAssetsURLs = true
     endorse = false
+    [main.build]
+        transpiler = "dartsass"
+    [main.colorMode]
+        enabled = true
+        toggle = true
+        modes = ["light", "dark"]
     [main.externalLinks]
         cue = false
         tab = false
-    [main.build]
-        transpiler = "dartsass"
 
 [modules]
-    core = ["bootstrap", "flexsearch", "fontawesome"]
-    optional = ["leaflet", "katex"]
-    excludeSCSS = ["bootstrap"]
-    disableTemplate = ["katex"]
-    [modules.fontawesome]
-        inline = true
-        debug = true
-        skipMissing = false
+    [modules.leaflet]
+        integration = "optional"
+    [modules.katex]
+        integration = "optional"
+        disableTemplate = true
 
 [debugging]
     showJS = false
     showSCSS = false
 
-[home]
-    #sections = ["aktuelles", "einsaetze", "aufgaben"]
-    sections = ["einsaetze"]
-    fullCover = true
-    centerHeadline = true
-    style = "gradient-featured"
-    [home.feature]
-        orientation = "horizontal"
-        color = "primary"
-        width = 6
-        align = "start"
 
 [navigation]
+    enabled = true
     anchor = true
-    logo = "/img/logo.png"
+    logo = "/assets/img/logo_resized.png"
     color = "body"
     fixed = true
     offset = "3.8em"
-    search = true
     breadcrumb = true
     toc = false
     sidebar = false
     size = "md"
+    [navigation.search]
+        enabled = false
+        toggle = true
+        modal = false
 
 [messages]
     placement = "bottom-right"

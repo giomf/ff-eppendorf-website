@@ -1,7 +1,7 @@
 ---
 title: Villenbrand in Winterhude
 date: 2023-05-07
-description: Villenbrand in Winterhude
+description: " "
 thumbnail: img/einsaetze/2023/0004.jpg
 resources:
 - name: img1

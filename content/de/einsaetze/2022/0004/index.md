@@ -1,7 +1,7 @@
 ---
 title: Abstützmaßnahmen an Einzelhaus
 date: 2022-03-20 17:02:04
-description: Abstützmaßnahmen an Einzelhaus
+description: " "
 thumbnail: img/einsaetze/2022/0004.jpg
 resources:
 - name: img1

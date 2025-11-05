@@ -1,7 +1,7 @@
 ---
 title: Mehrtägige Ausleuchtung und Energieversorgung
 date: 2020-03-08 17:03:37
-description: Mehrtägige Ausleuchtung und Energieversorgung
+description: " "
 thumbnail: img/default.png
 ---
 

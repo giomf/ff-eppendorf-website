@@ -1,7 +1,7 @@
 ---
 title: Technische Rettung nach Auffahrunfall
 date: 2021-06-06 16:14:51
-description: Technische Rettung nach Auffahrunfall
+description: " "
 thumbnail: img/einsaetze/2021/0006.jpg
 resources:
 - name: img-00

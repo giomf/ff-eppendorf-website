@@ -1,7 +1,7 @@
 ---
 title: Dachstuhlbrand in Niendorf
 date: 2024-10-11 18:19:00
-description: Dachstuhlbrand in Niendorf
+description: " "
 thumbnail: img/einsaetze/2024/0008.jpg
 tag: FEU2
 resources:

@@ -1,7 +1,7 @@
 ---
 title: Unterstützung bei LKW-Brand auf BAB
 date: 2021-05-30 16:08:28
-description: Unterstützung bei LKW-Brand auf BAB
+description: " "
 thumbnail: img/einsaetze/2021/0005.jpg
 resources:
 - name: img-00

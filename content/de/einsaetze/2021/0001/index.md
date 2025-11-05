@@ -1,7 +1,7 @@
 ---
 title: Sicherungsmaßnahmen für herunterfallende Fassadenteile
 date: 2021-03-28 16:07:09
-description: Sicherungsmaßnahmen für herunterfallende Fassadenteile
+description: " "
 thumbnail: img/einsaetze/2021/0001.jpg
 resources:
 - name: img-00

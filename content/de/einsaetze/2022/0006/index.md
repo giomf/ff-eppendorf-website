@@ -1,7 +1,7 @@
 ---
 title: Person in Baugrube verschüttet
 date: 2022-06-19 20:47:42
-description: Person in Baugrube verschüttet
+description: " "
 thumbnail: img/einsaetze/2022/0006.jpg
 resources:
 - name: img1

@@ -1,7 +1,7 @@
 ---
 title: Umfangreiche Bergung eines HVV Busses
 date: 2018-08-22 00:00:00
-description: Umfangreiche Bergung eines HVV Busses
+description: " "
 thumbnail: img/einsaetze/2018/0005.jpg
 resources:
 - name: img-00

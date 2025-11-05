@@ -1,7 +1,7 @@
 ---
 title: Wohnungsbrand nach Verpuffung, Feuer ins Dach gelaufen - 3. Alarm
 date: 2025-01-06 19:27:00
-description: Wohnungsbrand nach Verpuffung, Feuer ins Dach gelaufen - 3. Alarm
+description: " "
 thumbnail: img/einsaetze/2025/0002.jpg
 tag: FEU3MANV5
 resources:

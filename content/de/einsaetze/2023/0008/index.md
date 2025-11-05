@@ -1,7 +1,7 @@
 ---
 title: Villenbrand in Neugraben
 date: 2023-09-10
-description: Villenbrand in Neugraben
+description: " "
 thumbnail: img/einsaetze/2023/0008.jpg
 resources:
 - name: img1

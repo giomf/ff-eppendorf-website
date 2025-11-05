@@ -1,7 +1,7 @@
 ---
 title: Zwei Einsätze in der KW 11
 date: 2020-03-15 16:21:06
-description: Zwei Einsätze in der KW 11
+description: " "
 thumbnail: img/einsaetze/2020/0007.jpg
 resources:
 - name: img-00

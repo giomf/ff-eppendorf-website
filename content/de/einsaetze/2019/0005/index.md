@@ -1,7 +1,7 @@
 ---
 title: Intensive Be- und Entlüftungsmaßnahmen nach Feuer
 date: 2019-06-28 00:00:00
-description: Intensive Be- und Entlüftungsmaßnahmen nach Feuer
+description: " "
 thumbnail: img/default.png
 ---
 

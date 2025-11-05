@@ -1,7 +1,7 @@
 ---
 title: Baugerüst in der Hafencity gesichert
 date: 2019-01-04 00:00:00
-description: Baugerüst in der Hafencity gesichert
+description: " "
 thumbnail: img/einsaetze/2019/0000.jpg
 resources:
 - name: img-00

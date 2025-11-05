@@ -1,7 +1,7 @@
 ---
 title: Einsätze im Monat August / Lenzen nach Wasserrohrbruch
 date: 2023-09-03
-description: Einsätze im Monat August / Lenzen nach Wasserrohrbruch
+description: " "
 thumbnail: img/einsaetze/2023/0007.jpg
 resources:
 - name: img1

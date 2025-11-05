@@ -1,7 +1,7 @@
 ---
 title: Großer, gespaltener Ahorn drohte umzustürzen
 date: 2021-08-15 16:09:08
-description: Großer, gespaltener Ahorn drohte umzustürzen
+description: " "
 thumbnail: img/einsaetze/2021/0013.jpg
 resources:
 - name: img-00

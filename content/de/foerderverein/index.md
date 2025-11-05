@@ -28,16 +28,16 @@ Bei weiteren Fragen oder Anregen ist der Vorstand des Fördervereins unter folge
         [Öffnen](https://easyverein.com/public/Eppendorf/applicationform/5724?iframe=True)
     {{< /card >}}
     {{< card title="Aufnahmeantrag" icon="fas money-check" >}}
-        [Öffnen](./aufnahmeantrag_v1.pdf)
+        [Öffnen](foerderverein/aufnahmeantrag_v1.pdf)
     {{< /card >}}
     {{< card title="SEPA-Mandat" icon="fas building-columns" >}}
-        [Öffnen](./sepa-mandat.pdf)
+        [Öffnen](foerderverein/sepa-mandat.pdf)
     {{< /card >}}
     {{< card title="Satzung" icon="fas scale-balanced" >}}
-        [Öffnen](./satzung_1.4.1.pdf)
+        [Öffnen](foerderverein/satzung_1.4.1.pdf)
     {{< /card >}}
     {{< card title="Beitragsordnung" icon="fas list-check" >}}
-        [Öffnen](./beitragsordnung.pdf)
+        [Öffnen](foerderverein/beitragsordnung.pdf)
     {{< /card >}}
 {{< /card-group >}}
 

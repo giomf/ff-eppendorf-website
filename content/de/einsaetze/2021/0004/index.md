@@ -1,7 +1,7 @@
 ---
 title: Dachstuhlbrand 5. Alarm fordert die FF Eppendorf
 date: 2021-05-26 16:14:48
-description: Dachstuhlbrand 5. Alarm fordert die FF Eppendorf
+description: " "
 thumbnail: img/einsaetze/2021/0004.jpg
 resources:
 - name: img-00

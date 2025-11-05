@@ -1,7 +1,7 @@
 ---
 title: Aufwändige Konstruktion eines Notdaches
 date: 2025-10-03 13:50:00
-description: Aufwändige Konstruktion eines Notdaches
+description: " "
 thumbnail: img/einsaetze/2025/0022.jpg
 tag: FEU2MANV5
 resources:

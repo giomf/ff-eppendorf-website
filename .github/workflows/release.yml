@@ -28,7 +28,7 @@ defaults:
     shell: bash
 
 env:
-  DART_VERSION: "1.66.1"
+  DART_VERSION: "1.93.2"
 
 jobs:
   # Build job

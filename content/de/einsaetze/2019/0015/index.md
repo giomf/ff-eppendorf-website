@@ -1,7 +1,7 @@
 ---
 title: Baum stürzt auf Hausdach
 date: 2019-10-18 00:00:00
-description: Baum stürzt auf Hausdach
+description: " "
 thumbnail: img/einsaetze/2019/0015.jpg
 resources:
 - name: img-00

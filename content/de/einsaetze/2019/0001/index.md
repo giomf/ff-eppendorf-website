@@ -1,7 +1,7 @@
 ---
 title: Eiche haveriert in Langenhorn
 date: 2019-02-12 18:14:59
-description: Eiche haveriert in Langenhorn
+description: " "
 thumbnail: img/einsaetze/2019/0001.jpg
 resources:
 - name: img-00

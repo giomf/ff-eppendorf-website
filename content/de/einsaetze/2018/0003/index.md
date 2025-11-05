@@ -1,7 +1,7 @@
 ---
 title: Unwetter über dem Hamburger Osten
 date: 2018-05-13 00:00:00
-description: Unwetter über dem Hamburger Osten
+description: " "
 thumbnail: img/einsaetze/2018/0003.jpg
 resources:
 - name: img-00

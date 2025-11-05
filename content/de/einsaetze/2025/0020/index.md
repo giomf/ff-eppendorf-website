@@ -1,7 +1,7 @@
 ---
 title: Teileinsturz an Hausecke
 date: 2025-09-18 13:42:00
-description: Teileinsturz an Hausecke
+description: " "
 thumbnail: img/einsaetze/2025/0020.jpg
 tag: TH
 resources:

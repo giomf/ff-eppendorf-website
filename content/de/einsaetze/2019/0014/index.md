@@ -1,7 +1,7 @@
 ---
 title: Druckerei im Vollbrand
 date: 2019-10-13 00:00:00
-description: Druckerei im Vollbrand
+description: " "
 thumbnail: img/einsaetze/2019/0014.jpg
 resources:
 - name: img-00

@@ -52,6 +52,11 @@
   weight = 9
 
 [[main]]
+  name = "Aktuelles"
+  pageRef = "aktuelles/"
+  weight = 20
+
+[[main]]
   name = "Förderverein"
   pageRef = "foerderverein/"
   weight = 30

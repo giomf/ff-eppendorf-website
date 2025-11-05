@@ -1,7 +1,7 @@
 ---
 title: Einsatzreicher Start ins neue Jahr - Dachstuhlbrände und Gerüstumsturz
 date: 2025-01-01 09:48:00
-description: Einsatzreicher Start ins neue Jahr - Dachstuhlbrände und Gerüstumsturz
+description: " "
 thumbnail: img/einsaetze/2025/0000.jpg
 tag: DRZF
 resources:

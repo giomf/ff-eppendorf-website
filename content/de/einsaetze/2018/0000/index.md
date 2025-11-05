@@ -1,7 +1,7 @@
 ---
 title: 40-Tonnen-LKW rutscht in Baugrube
 date: 2018-02-09 00:00:00
-description: 40-Tonnen-LKW rutscht in Baugrube
+description: " "
 thumbnail: img/default.png
 ---
 

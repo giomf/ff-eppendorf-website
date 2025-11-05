@@ -1,7 +1,7 @@
 ---
 title: Baum droht auf Feuerwehrhaus zu fallen
 date: 2022-01-09 17:08:37
-description: Baum droht auf Feuerwehrhaus zu fallen
+description: " "
 thumbnail: img/einsaetze/2022/0001.jpg
 resources:
 - name: img1

@@ -1,7 +1,7 @@
 ---
 title: Großbrand in Clubheim
 date: 2021-12-26 17:50:25
-description: Großbrand in Clubheim
+description: " "
 thumbnail: img/einsaetze/2021/0021.jpg
 resources:
 - name: img-00

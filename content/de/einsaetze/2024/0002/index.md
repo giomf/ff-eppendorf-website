@@ -1,7 +1,7 @@
 ---
 title: Taktische Ventilation bei Villenbrand
 date: 2024-02-02 00:00:00
-description: Taktische Ventilation bei Villenbrand
+description: " "
 thumbnail: img/einsaetze/2024/0002.jpg
 resources:
 - name: img1

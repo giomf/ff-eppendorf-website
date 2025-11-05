@@ -1,10 +1,8 @@
 title = "Freiwillige Feuerwehr Hamburg-Eppendorf"
-copyright = "Copyright © 2023 Mark Dumay."
+copyright = "Copyright © 2022 - 2025 Mark Dumay."
 enableGitInfo = false
 
-# additional settings
-# googleAnalytics = "G-xxxxxxxxxx"
-#baseURL = "https:/ff-eppendorf.de"
+# baseURL = "https:/ff-eppendorf.de"
 canonifyURLs = false
 enableEmoji = true
 enableRobotsTXT = true
@@ -23,7 +21,6 @@ defaultContentLanguageInSubdir = false
 
 [pagination]
   pagerSize = 9
-
 
 [outputFormats.REDIR]
 mediaType = "text/netlify"
@@ -48,7 +45,7 @@ home = ["HTML", "RSS", "REDIR"]
     disabled = false
     simple = true
 
-  [privacy.twitter]
+  [privacy.x]
     disabled = false
     enableDNT = true
     simple = true
@@ -64,7 +61,7 @@ home = ["HTML", "RSS", "REDIR"]
 [services]
   [services.instagram]
     disableInlineCSS = true
-  [services.twitter]
+  [services.x]
     disableInlineCSS = true
 
 [outputFormats]
@@ -79,8 +76,7 @@ home = ["HTML", "RSS", "REDIR"]
 [module]
   [module.hugoVersion]
     extended = true
-    min = "0.110.0"
-    max = ""
+    min = "0.136.3"
   [[module.mounts]]
     source = "archetypes"
     target = "archetypes"
@@ -91,6 +87,9 @@ home = ["HTML", "RSS", "REDIR"]
     source = "content/de"
     target = "content"
     lang = "de"
+  [[module.mounts]]
+    source = "data"
+    target = "data"
   [[module.mounts]]
     source = "i18n"
     target = "i18n"

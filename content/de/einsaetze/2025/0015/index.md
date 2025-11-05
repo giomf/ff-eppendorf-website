@@ -1,7 +1,7 @@
 ---
 title: Großer Baum droht über mehrere Bahngleise zu fallen
 date: 2025-08-06 17:21:00
-description: Großer Baum droht über mehrere Bahngleise zu fallen
+description: " "
 thumbnail: img/einsaetze/2025/0015.jpg
 tag: DRZF
 resources:

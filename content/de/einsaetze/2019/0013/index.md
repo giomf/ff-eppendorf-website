@@ -1,7 +1,7 @@
 ---
 title: Dachhautöffnung in der Innenstadt
 date: 2019-10-10 00:00:00
-description: Dachhautöffnung in der Innenstadt
+description: " "
 thumbnail: img/einsaetze/2019/0013.jpg
 resources:
 - name: img-00

@@ -1,7 +1,7 @@
 ---
 title: Großbrand in Bahrenfeld
 date: 2022-04-24 20:38:04
-description: Großbrand in Bahrenfeld
+description: " "
 thumbnail: img/einsaetze/2022/0005.jpg
 resources:
 - name: img1
