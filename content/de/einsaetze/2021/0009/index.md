@@ -1,7 +1,7 @@
 ---
 title: Entrauchung über lange Wegstrecke
 date: 2021-06-20 16:14:02
-description: Entrauchung über lange Wegstrecke
+description: " "
 thumbnail: img/einsaetze/2021/0009.jpg
 resources:
 - name: img-00

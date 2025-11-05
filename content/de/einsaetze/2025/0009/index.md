@@ -1,7 +1,7 @@
 ---
 title: Brennende E-Lok mittels Cobra Schneidlöschsystem gelöscht
 date: 2025-06-06 03:22:00
-description: Brennende E-Lok mittels Cobra Schneidlöschsystem gelöscht␍
+description: " "
 thumbnail: img/einsaetze/2025/0009.jpg
 tag: FEUZUG
 resources:

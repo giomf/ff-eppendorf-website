@@ -1,7 +1,7 @@
 ---
 title: 25m hoher Baum droht zu fallen
 date: 2019-07-23 00:00:00
-description: 25m hoher Baum droht zu fallen
+description: " "
 thumbnail: img/einsaetze/2019/0008.jpg
 resources:
 - name: img-00

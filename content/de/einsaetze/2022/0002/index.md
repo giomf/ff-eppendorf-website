@@ -1,7 +1,7 @@
 ---
 title: Ausnahmezustand durch Orkantief Nadia
 date: 2022-02-06 19:40:07
-description: Ausnahmezustand durch Orkantief Nadia
+description: " "
 thumbnail: img/einsaetze/2022/0002.jpg
 resources:
 - name: img1

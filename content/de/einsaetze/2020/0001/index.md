@@ -1,7 +1,7 @@
 ---
 title: Entrauchungsmaßnahmen nach starker Rauchentwicklung
 date: 2020-01-26 13:00:01
-description: Entrauchungsmaßnahmen nach starker Rauchentwicklung
+description: " "
 thumbnail: img/einsaetze/2020/0001.jpg
 resources:
 - name: img-00

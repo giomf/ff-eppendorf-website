@@ -1,7 +1,7 @@
 ---
 title: Gespaltener Ahorn drohte auf Straße zu stürzen
 date: 2025-05-26 20:08:00
-description: Gespaltener Ahorn drohte auf Straße zu stürzen
+description: " "
 thumbnail: img/einsaetze/2025/0008.jpg
 tag: DRZF
 resources:

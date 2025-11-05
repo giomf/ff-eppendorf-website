@@ -1,7 +1,7 @@
 ---
 title: Baum in schwieriger Lage
 date: 2020-03-08 17:05:51
-description: Baum in schwieriger Lage
+description: " "
 thumbnail: img/einsaetze/2020/0006.jpg
 resources:
 - name: img-00

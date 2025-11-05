@@ -1,7 +1,7 @@
 ---
 title: Abstützmaßnahmen nach Feuer in Tiefgarage
 date: 2024-04-19 00:00:00
-description: Abstützmaßnahmen nach Feuer in Tiefgarage
+description: " "
 thumbnail: img/einsaetze/2024/0003.jpg
 tag: FEUTU3MANV5
 resources:

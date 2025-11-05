@@ -1,7 +1,7 @@
 ---
 title: Einsätze durch Sturmtief Pit
 date: 2023-02-05
-description: Einsätze durch Sturmtief Pit
+description: " "
 thumbnail: img/einsaetze/2023/0001.jpg
 resources:
 - name: img1

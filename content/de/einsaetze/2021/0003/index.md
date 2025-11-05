@@ -1,7 +1,7 @@
 ---
 title: Einsätze durch Sturmtief Eugen
 date: 2021-05-23 15:10:26
-description: Einsätze durch Sturmtief Eugen
+description: " "
 thumbnail: img/einsaetze/2021/0003.jpg
 resources:
 - name: img-00

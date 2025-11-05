@@ -1,7 +1,7 @@
 ---
 title: Absackungen neben Mehrfamilienhaus
 date: 2025-08-11 21:02:00
-description: Absackungen neben Mehrfamilienhaus
+description: " "
 thumbnail: img/einsaetze/2025/0016.jpg
 tag: THK
 resources:

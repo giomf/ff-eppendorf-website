@@ -1,7 +1,7 @@
 ---
 title: Einsätze in den KW 51 & 52
 date: 2023-12-31
-description: Einsätze in den KW 51 & 52
+description: " "
 thumbnail: img/einsaetze/2023/0010.jpg
 resources:
 - name: img1

@@ -1,7 +1,7 @@
 ---
 title: Brennt Schulgebäude in Farmsen
 date: 2025-05-03 06:04:00
-description: Brennt Schulgebäude in Farmsen
+description: " "
 thumbnail: img/einsaetze/2025/0006.jpg
 tag: FEU2
 resources:

@@ -1,7 +1,7 @@
 ---
 title: Baukran stürzt auf Einfamilienhaus
 date: 2024-12-20 14:25:00
-description: Baukran stürzt auf Einfamilienhaus
+description: " "
 thumbnail: img/einsaetze/2024/11.jpg
 tag: THMANV10
 resources:

@@ -1,7 +1,7 @@
 ---
 title: Große, gespaltene Eiche drohte umzustürzen
 date: 2025-08-16 13:23:00
-description: Große, gespaltene Eiche drohte umzustürzen
+description: " "
 thumbnail: img/einsaetze/2025/0017.jpg
 tag: DRZF
 resources:

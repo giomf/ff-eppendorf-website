@@ -1,7 +1,7 @@
 ---
 title: 18t-LKW drohte umzustürzen
 date: 2023-01-15 19:04:16
-description: 18t-LKW drohte umzustürzen
+description: " "
 thumbnail: img/einsaetze/2023/0000.jpg
 resources:
 - name: img1

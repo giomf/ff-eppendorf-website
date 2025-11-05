@@ -1,7 +1,7 @@
 ---
 title: Be- und Entlüftung nach Kellerbrand
 date: 2019-03-21 00:00:00
-description: Be- und Entlüftung nach Kellerbrand
+description: " "
 thumbnail: img/einsaetze/2019/0004.jpg
 resources:
 - name: img-00

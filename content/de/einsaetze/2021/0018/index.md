@@ -1,7 +1,7 @@
 ---
 title: Stammhälfte auf Gebäude gefallen
 date: 2021-10-31 16:23:41
-description: Stammhälfte auf Gebäude gefallen
+description: " "
 thumbnail: img/einsaetze/2021/0018.jpg
 resources:
 - name: img-00

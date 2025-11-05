@@ -1,7 +1,7 @@
 ---
 title: Zwei technische Einsätze an einem Tag
 date: 2022-07-10 17:33:35
-description: Zwei technische Einsätze an einem Tag
+description: " "
 thumbnail: img/einsaetze/2022/0007.jpg
 resources:
 - name: img1

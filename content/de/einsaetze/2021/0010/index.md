@@ -1,7 +1,7 @@
 ---
 title: Unfälle mit Transportmitteln
 date: 2021-06-27 16:29:17
-description: Unfälle mit Transportmitteln
+description: " "
 thumbnail: img/einsaetze/2021/0010.jpg
 resources:
 - name: img-00

@@ -1,7 +1,7 @@
 ---
 title: Gemeinsame Bergung eines Linienbusses
 date: 2025-03-19 06:27:00
-description: Gemeinsame Bergung eines Linienbusses
+description: " "
 thumbnail: img/einsaetze/2025/0004.jpg
 tag: THLKWMANV5
 resources:

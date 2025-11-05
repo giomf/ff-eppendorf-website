@@ -1,7 +1,7 @@
 ---
 title: Person unter LKW eingeklemmt
 date: 2021-07-11 17:08:00
-description: Person unter LKW eingeklemmt
+description: " "
 thumbnail: img/einsaetze/2021/0011.jpg
 resources:
 - name: img-00

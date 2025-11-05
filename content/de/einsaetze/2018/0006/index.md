@@ -1,7 +1,7 @@
 ---
 title: Eingeklemmter LKW Fahrer nach Kollision mit Bürogebäude
 date: 2018-09-06 00:00:00
-description: Eingeklemmter LKW Fahrer nach Kollision mit Bürogebäude
+description: " "
 thumbnail: img/einsaetze/2018/0006.jpg
 resources:
 - name: img-00

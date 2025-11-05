@@ -16,17 +16,17 @@
       system:
       let
         pkgs = import nixpkgs { inherit system; };
-        pp = pkgs.python311Packages;
+        pp = pkgs.python313Packages;
       in
       {
         devShells.default =
-          (pkgs.buildFHSUserEnv {
+          (pkgs.buildFHSEnv {
             name = "Devshell";
             runScript = "fish";
             targetPkgs =
               pkgs:
               (with pkgs; [
-                nodejs_20
+                nodejs_24
                 go
                 dart-sass
                 python312

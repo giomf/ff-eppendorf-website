@@ -1,7 +1,7 @@
 ---
 title: Baum im Hinterhof in schwieriger Lage
 date: 2022-04-28 17:43:59
-description: Baum im Hinterhof in schwieriger Lage
+description: " "
 thumbnail: img/einsaetze/2022/0009.jpg
 resources:
 - name: img1

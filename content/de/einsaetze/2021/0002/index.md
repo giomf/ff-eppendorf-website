@@ -1,7 +1,7 @@
 ---
 title: Baum auf Haus, Sicherungsmaßnahmen erforderlich
 date: 2021-04-11 20:03:12
-description: Baum auf Haus, Sicherungsmaßnahmen erforderlich
+description: " "
 thumbnail: img/einsaetze/2021/0002.jpg
 resources:
 - name: img-00

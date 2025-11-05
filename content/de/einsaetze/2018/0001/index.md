@@ -1,7 +1,7 @@
 ---
 title: Sturmlage in Hamburg
 date: 2018-03-20 00:00:00
-description: Sturmlage in Hamburg
+description: " "
 thumbnail: img/default.png
 ---
 

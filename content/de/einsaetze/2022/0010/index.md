@@ -1,7 +1,7 @@
 ---
 title: Explosion in Schule
 date: 2022-11-21 00:00:46
-description: Explosion in Schule
+description: " "
 thumbnail: img/einsaetze/2022/0010.jpg
 resources:
 - name: img1

@@ -1,7 +1,7 @@
 ---
 title: 2. Großbrand in 24 Stunden
 date: 2022-01-02 16:49:07
-description: 2. Großbrand in 24 Stunden
+description: " "
 thumbnail: img/einsaetze/2022/0000.jpg
 resources:
 - name: img1

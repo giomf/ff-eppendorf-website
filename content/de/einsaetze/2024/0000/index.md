@@ -1,7 +1,7 @@
 ---
 title: Cobra-Einsatz & Dachhautöffnung bei Aulabrand
 date: 2024-01-24 00:00:00
-description: Cobra-Einsatz & Dachhautöffnung bei Aulabrand
+description: " "
 thumbnail: img/einsaetze/2024/0000.jpg
 resources:
 - name: img1

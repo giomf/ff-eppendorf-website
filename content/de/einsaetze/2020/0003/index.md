@@ -1,7 +1,7 @@
 ---
 title: Baum droht auf Bahngleise zu fallen
 date: 2020-02-23 17:00:17
-description: Baum droht auf Bahngleise zu fallen
+description: " "
 thumbnail: img/einsaetze/2020/0003.jpg
 resources:
 - name: img-00

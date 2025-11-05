@@ -1,7 +1,7 @@
 ---
 title: Feuer im Dachbereich eines Hochhauses
 date: 2021-10-24 16:04:06
-description: Feuer im Dachbereich eines Hochhauses
+description: " "
 thumbnail: img/einsaetze/2021/0017.jpg
 resources:
 - name: img-00

@@ -1,7 +1,7 @@
 ---
 title: Feuer auf Restaurantschiff
 date: 2025-09-08 23:46:00
-description: Feuer auf Restaurantschiff
+description: " "
 thumbnail: img/einsaetze/2025/0019.jpg
 tag: FEUWA2
 resources:

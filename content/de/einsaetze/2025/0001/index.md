@@ -1,7 +1,7 @@
 ---
 title: Massiver Gebäudebrand in Hummelsbüttel
 date: 2025-01-05 19:54:00
-description: Massiver Gebäudebrand in Hummelsbüttel
+description: " "
 thumbnail: img/einsaetze/2025/0001.jpg
 tag: FEU2MANV5
 resources:

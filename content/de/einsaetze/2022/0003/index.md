@@ -1,7 +1,7 @@
 ---
 title: Drei Orkantiefs sorgen für vermehrte Einsätze
 date: 2022-03-06 16:36:22
-description: Drei Orkantiefs sorgen für vermehrte Einsätze
+description: " "
 thumbnail: img/einsaetze/2022/0003.jpg
 resources:
 - name: img1

@@ -1,7 +1,7 @@
 ---
 title: Großfeuer in Müllverbrennungsanlage
 date: 2022-11-21 00:27:30
-description: Großfeuer in Müllverbrennungsanlage
+description: " "
 thumbnail: img/einsaetze/2022/0012.jpg
 resources:
 - name: img1

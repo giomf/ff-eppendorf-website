@@ -1,7 +1,7 @@
 ---
 title: Explosion mit partiellem Gebäudeeinsturz
 date: 2021-12-12 15:36:45
-description: Explosion mit partiellem Gebäudeeinsturz
+description: " "
 thumbnail: img/einsaetze/2021/0019.jpg
 resources:
 - name: img-00

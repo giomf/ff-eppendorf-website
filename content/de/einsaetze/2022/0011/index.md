@@ -1,7 +1,7 @@
 ---
 title: Einsatzreiches Wochenende
 date: 2022-11-21 00:11:56
-description: Einsatzreiches Wochenende
+description: " "
 thumbnail: img/einsaetze/2022/0011.jpg
 resources:
 - name: img1

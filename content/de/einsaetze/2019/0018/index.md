@@ -1,7 +1,7 @@
 ---
 title: Rissbildung im Mauerwerk
 date: 2019-11-10 18:14:51
-description: Rissbildung im Mauerwerk
+description: " "
 thumbnail: img/einsaetze/2019/0018.jpg
 resources:
 - name: img-00
