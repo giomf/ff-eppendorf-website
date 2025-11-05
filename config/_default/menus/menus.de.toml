@@ -107,11 +107,11 @@
   url = "https://www.instagram.com/feuerwehrhamburgeppendorf/"
   weight = 10
 
-[[social]]
-  name = "Twitter"
-  pre = "fab x-twitter"
-  url = "https://twitter.com/FFEppendorf/"
-  weight = 20
+# [[social]]
+#   name = "Twitter"
+#   pre = "fab x-twitter"
+#   url = "https://twitter.com/FFEppendorf/"
+#   weight = 20
 
 [[footer]]
   name = "Links"
