@@ -28,7 +28,7 @@ content_blocks:
   more:
     title: Weitere Einsätze
     link: einsaetze/page/2/
-  class: border-0 card-zoom card-body-margin
+  class: shadow border-0 card-zoom card-body-margin
 
 - _bookshop_name: articles
   heading:
@@ -43,5 +43,5 @@ content_blocks:
   more:
     title: Weiteres Aktuelles 
     link: aktuelles/page/2/
-  class: border-0 card-zoom card-body-margin
+  class: shadow border-0 card-zoom card-body-margin
 ---

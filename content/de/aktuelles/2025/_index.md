@@ -10,5 +10,5 @@ content_blocks:
   limit: 9
   hide-empty: true
   paginate: true
-  class: border-0 card-zoom card-body-margin
+  class: shadow border-0 card-zoom card-body-margin
 ---
